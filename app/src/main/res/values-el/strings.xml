@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">ΑΥΤΟ-ΑΝΑΦΟΡΑ</string>
+    <string name="tab_clinical">ΚΛΙΝΙΚΗ</string>
+    <string name="tab_functional">ΛΕΙΤΟΥΡΓΙΚΗ</string>
+    <string name="label_headache">Πονοκέφαλος</string>
+    <string name="rb_headache_0">0—Καθόλου</string>
+    <string name="rb_headache_1">1—Ήπιος πονοκέφαλος</string>
+    <string name="rb_headache_2">2—Μέτριος πονοκέφαλος</string>
+    <string name="rb_headache_3">3—Σοβαρός πονοκέφαλος, ανικανότητα</string>
+    <string name="label_gi_symptoms">Γαστρεντερικά συμπτώματα</string>
+    <string name="rb_gi_0">0—Καλή όρεξη</string>
+    <string name="rb_gi_1">1—Κακή όρεξη ή ναυτία</string>
+    <string name="rb_gi_2">2—Μέτρια ναυτία ή έμετος</string>
+    <string name="rb_gi_3">3—Σοβαρή ναυτία και έμετος, ανικανότητα</string>
+    <string name="label_fatigue">Κόπωση και/ή αδυναμία</string>
+    <string name="rb_fatigue_0">0—Όχι κουρασμένος ή αδύναμος</string>
+    <string name="rb_fatigue_1">1—Ήπια κόπωση/αδυναμία</string>
+    <string name="rb_fatigue_2">2—Μέτρια κόπωση/αδυναμία</string>
+    <string name="rb_fatigue_3">3—Σοβαρή κόπωση/αδυναμία, ανικανότητα</string>
+    <string name="label_dizziness">Ζάλη/τάση για λιποθυμία</string>
+    <string name="rb_dizziness_0">0—Καμία ζάλη</string>
+    <string name="rb_dizziness_1">1—Ήπια ζάλη</string>
+    <string name="rb_dizziness_2">2—Μέτρια ζάλη</string>
+    <string name="rb_dizziness_3">3—Σοβαρή ζάλη, ανικανότητα</string>
+    <string name="label_mental_status">Μεταβολή της νοητικής κατάστασης</string>
+    <string name="rb_mental_0">0—Καμία μεταβολή της νοητικής κατάστασης</string>
+    <string name="rb_mental_1">1—Λήθαργος/ατονία</string>
+    <string name="rb_mental_2">2—Αποπροσανατολισμένος/συγχυσμένος</string>
+    <string name="rb_mental_3">3—Λήθαργος/ημι-αναίσθητος</string>
+    <string name="rb_mental_4">4—Κώμα</string>
+    <string name="label_ataxia">Αταξία (βάδιση πτέρνας-δακτύλων)</string>
+    <string name="rb_ataxia_0">0—Καμία αταξία</string>
+    <string name="rb_ataxia_1">1—Ελιγμοί για τη διατήρηση της ισορροπίας</string>
+    <string name="rb_ataxia_2">2—Βήματα εκτός γραμμής</string>
+    <string name="rb_ataxia_3">3—Πτώση</string>
+    <string name="rb_ataxia_4">4—Δεν μπορεί να σταθεί</string>
+    <string name="label_peripheral_edema">Περιφερικό οίδημα</string>
+    <string name="rb_edema_0">0—Κανένα περιφερικό οίδημα</string>
+    <string name="rb_edema_1">1—Περιφερικό οίδημα σε μία θέση</string>
+    <string name="rb_edema_2">2—Περιφερικό οίδημα σε δύο ή περισσότερες θέσεις</string>
+    <string name="label_activity_impact">Συνολικά, αν είχατε συμπτώματα, πώς επηρέασαν τη δραστηριότητά σας;</string>
+    <string name="rb_no_reduction">0—Καμία μείωση της δραστηριότητας</string>
+    <string name="rb_mild_reduction">1—Ήπια μείωση της δραστηριότητας</string>
+    <string name="rb_moderate_reduction">2—Μέτρια μείωση της δραστηριότητας</string>
+    <string name="rb_severe_reduction">3—Σοβαρή μείωση της δραστηριότητας (π.χ. κατάκλιση)</string>
+    <string name="self_report_score_format">Βαθμολογία αυτο-αναφοράς = %1$d από %2$d</string>
+    <string name="clinical_score_format">Κλινική βαθμολογία = %1$d από %2$d</string>
+    <string name="functional_score_format">Λειτουργική βαθμολογία = %1$d από %2$d</string>
+    <string name="btn_reset_forms">Επαναφορά φορμών</string>
+    <string name="dialog_reset_confirmation">Επαναφορά φορμών;</string>
+    <string name="btn_reset">Επαναφορά</string>
+    <string name="btn_cancel">Ακύρωση</string>
+    <string name="ams_none">Χωρίς AMS</string>
+    <string name="ams_mild">Ήπιο AMS</string>
+    <string name="ams_moderate">Μέτριο AMS</string>
+    <string name="ams_severe">Σοβαρό AMS</string>
+</resources>

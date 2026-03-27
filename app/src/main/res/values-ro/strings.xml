@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">AUTO-RAPORTARE</string>
+    <string name="tab_clinical">CLINIC</string>
+    <string name="tab_functional">FUNCȚIONAL</string>
+    <string name="label_headache">Durere de cap</string>
+    <string name="rb_headache_0">0—Deloc</string>
+    <string name="rb_headache_1">1—O ușoară durere de cap</string>
+    <string name="rb_headache_2">2—Durere de cap moderată</string>
+    <string name="rb_headache_3">3—Durere de cap severă, incapacitantă</string>
+    <string name="label_gi_symptoms">Simptome gastrointestinale</string>
+    <string name="rb_gi_0">0—Apetit bun</string>
+    <string name="rb_gi_1">1—Apetit scăzut sau greață</string>
+    <string name="rb_gi_2">2—Greață moderată sau vărsături</string>
+    <string name="rb_gi_3">3—Greață și vărsături severe, incapacitante</string>
+    <string name="label_fatigue">Oboseală și/sau slăbiciune</string>
+    <string name="rb_fatigue_0">0—Fără oboseală sau slăbiciune</string>
+    <string name="rb_fatigue_1">1—Oboseală/slăbiciune ușoară</string>
+    <string name="rb_fatigue_2">2—Oboseală/slăbiciune moderată</string>
+    <string name="rb_fatigue_3">3—Oboseală/slăbiciune severă, incapacitantă</string>
+    <string name="label_dizziness">Amețeală/vertij</string>
+    <string name="rb_dizziness_0">0—Fără amețeală/vertij</string>
+    <string name="rb_dizziness_1">1—Amețeală/vertij ușor</string>
+    <string name="rb_dizziness_2">2—Amețeală/vertij moderat</string>
+    <string name="rb_dizziness_3">3—Amețeală/vertij sever, incapacitant</string>
+    <string name="label_mental_status">Schimbarea stării mentale</string>
+    <string name="rb_mental_0">0—Nicio schimbare în starea mentală</string>
+    <string name="rb_mental_1">1—Letargie/lassitudine</string>
+    <string name="rb_mental_2">2—Dezorientat/confuz</string>
+    <string name="rb_mental_3">3—Stupoare/semiconstiență</string>
+    <string name="rb_mental_4">4—Comă</string>
+    <string name="label_ataxia">Ataxie (mers călcâi-vârf)</string>
+    <string name="rb_ataxia_0">0—Fără ataxie</string>
+    <string name="rb_ataxia_1">1—Manevre pentru menținerea echilibrului</string>
+    <string name="rb_ataxia_2">2—Pași în afara liniei</string>
+    <string name="rb_ataxia_3">3—Cădere</string>
+    <string name="rb_ataxia_4">4—Nu poate sta în picioare</string>
+    <string name="label_peripheral_edema">Edem periferic</string>
+    <string name="rb_edema_0">0—Fără edem periferic</string>
+    <string name="rb_edema_1">1—Edem periferic într-un singur loc</string>
+    <string name="rb_edema_2">2—Edem periferic în două sau mai multe locuri</string>
+    <string name="label_activity_impact">Per total, dacă ați avut simptome, cum v-au afectat acestea activitatea?</string>
+    <string name="rb_no_reduction">0—Nicio reducere a activității</string>
+    <string name="rb_mild_reduction">1—Reducere ușoară a activității</string>
+    <string name="rb_moderate_reduction">2—Reducere moderată a activității</string>
+    <string name="rb_severe_reduction">3—Reducere severă a activității (ex. repaus la pat)</string>
+    <string name="self_report_score_format">Scor auto-raportare = %1$d din %2$d</string>
+    <string name="clinical_score_format">Scor clinic = %1$d din %2$d</string>
+    <string name="functional_score_format">Scor funcțional = %1$d din %2$d</string>
+    <string name="btn_reset_forms">Resetați formularele</string>
+    <string name="dialog_reset_confirmation">Resetați formularele?</string>
+    <string name="btn_reset">Resetare</string>
+    <string name="btn_cancel">Anulare</string>
+    <string name="ams_none">Fără RĂU DE ALTITUDINE</string>
+    <string name="ams_mild">RĂU DE ALTITUDINE ușor</string>
+    <string name="ams_moderate">RĂU DE ALTITUDINE moderat</string>
+    <string name="ams_severe">RĂU DE ALTITUDINE sever</string>
+</resources>

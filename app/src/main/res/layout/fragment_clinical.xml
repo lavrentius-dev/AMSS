@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/clinical_scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".ui.clinical.ClinicalFragment">
+
+    <LinearLayout
+        android:id="@+id/clinical_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/tv_mental_status_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Change in mental status"
+            android:textStyle="bold"
+            android:textAppearance="?attr/textAppearanceBody1"
+            android:layout_marginBottom="16dp" />
+
+        <RadioGroup
+            android:id="@+id/rg_mental_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <RadioButton
+                android:id="@+id/rb_mental_0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="0—No change in mental status"
+                android:checked="true"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_mental_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1—Lethargy/lassitude"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_mental_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2—Disoriented/confused"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_mental_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3—Stupor/semiconsciousness"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_mental_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4—Coma"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+        </RadioGroup>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+
+            <View
+                android:id="@+id/divider1"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:background="@color/antique_white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.8" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/tv_ataxia_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ataxia (heel to toe walking)"
+            android:textStyle="bold"
+            android:textAppearance="?attr/textAppearanceBody1"
+            android:layout_marginBottom="16dp" />
+
+        <RadioGroup
+            android:id="@+id/rg_ataxia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <RadioButton
+                android:id="@+id/rb_ataxia_0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="0—No ataxia"
+                android:checked="true"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_ataxia_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1—Maneuvers to maintain balance"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_ataxia_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2—Steps off line"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_ataxia_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3—Falls down"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_ataxia_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4—Can't stand"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+        </RadioGroup>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+
+            <View
+                android:id="@+id/divider2"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:background="@color/antique_white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.8" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/tv_peripheral_edema_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Peripheral edema"
+            android:textStyle="bold"
+            android:textAppearance="?attr/textAppearanceBody1"
+            android:layout_marginBottom="16dp" />
+
+        <RadioGroup
+            android:id="@+id/rg_peripheral_edema"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <RadioButton
+                android:id="@+id/rb_edema_0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="0—No peripheral edema"
+                android:checked="true"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_edema_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1—Peripheral edema at one location"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_edema_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2—Peripheral edema at two or more locations"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+        </RadioGroup>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+
+            <View
+                android:id="@+id/divider3"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:background="@color/antique_white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.8" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/tv_clinical_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clinical score = 0 of 10"
+            android:textColor="@color/dark_orange"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+</ScrollView>

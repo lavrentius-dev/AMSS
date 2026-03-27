@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">خودارزیابی</string>
+    <string name="tab_clinical">بالینی</string>
+    <string name="tab_functional">عملکردی</string>
+    <string name="label_headache">سردرد</string>
+    <string name="rb_headache_0">0—اصلاً ندارم</string>
+    <string name="rb_headache_1">1—سردرد خفیف</string>
+    <string name="rb_headache_2">2—سردرد متوسط</string>
+    <string name="rb_headache_3">3—سردرد شدید، ناتوان‌کننده</string>
+    <string name="label_gi_symptoms">علائم گوارشی</string>
+    <string name="rb_gi_0">0—اشتهای خوب</string>
+    <string name="rb_gi_1">1—اشتهای کم یا حالت تهوع</string>
+    <string name="rb_gi_2">2—تهوع یا استفراغ متوسط</string>
+    <string name="rb_gi_3">3—تهوع و استفراغ شدید، ناتوان‌کننده</string>
+    <string name="label_fatigue">خستگی و/یا ضعف</string>
+    <string name="rb_fatigue_0">0—خسته یا ضعیف نیستم</string>
+    <string name="rb_fatigue_1">1—خستگی/ضعف خفیف</string>
+    <string name="rb_fatigue_2">2—خستگی/ضعف متوسط</string>
+    <string name="rb_fatigue_3">3—خستگی/ضعف شدید، ناتوان‌کننده</string>
+    <string name="label_dizziness">سرگیجه/سبکی سر</string>
+    <string name="rb_dizziness_0">0—بدون سرگیجه/سبکی سر</string>
+    <string name="rb_dizziness_1">1—سرگیجه/سبکی سر خفیف</string>
+    <string name="rb_dizziness_2">2—سرگیجه/سبکی سر متوسط</string>
+    <string name="rb_dizziness_3">3—سرگیجه/سبکی سر شدید، ناتوان‌کننده</string>
+    <string name="label_mental_status">تغییر در وضعیت ذهنی</string>
+    <string name="rb_mental_0">0—بدون تغییر در وضعیت ذهنی</string>
+    <string name="rb_mental_1">1—بی‌حالی/سستی</string>
+    <string name="rb_mental_2">2—گیج/سردرگم</string>
+    <string name="rb_mental_3">3—بهت‌زدگی/نیمه‌هوشیار</string>
+    <string name="rb_mental_4">4—کما</string>
+    <string name="label_ataxia">آتاکسی (راه رفتن پاشنه به پنجه)</string>
+    <string name="rb_ataxia_0">0—بدون آتاکسی</string>
+    <string name="rb_ataxia_1">1—مانور برای حفظ تعادل</string>
+    <string name="rb_ataxia_2">2—خارج شدن از خط</string>
+    <string name="rb_ataxia_3">3—زمین خوردن</string>
+    <string name="rb_ataxia_4">4—نمی‌تواند بایستد</string>
+    <string name="label_peripheral_edema">ادم محیطی</string>
+    <string name="rb_edema_0">0—بدون ادم محیطی</string>
+    <string name="rb_edema_1">1—ادم محیطی در یک مکان</string>
+    <string name="rb_edema_2">2—ادم محیطی در دو یا چند مکان</string>
+    <string name="label_activity_impact">به طور کلی، اگر علائمی داشتید، چگونه بر فعالیت شما تأثیر گذاشت؟</string>
+    <string name="rb_no_reduction">0—بدون کاهش فعالیت</string>
+    <string name="rb_mild_reduction">1—کاهش خفیف فعالیت</string>
+    <string name="rb_moderate_reduction">2—کاهش متوسط فعالیت</string>
+    <string name="rb_severe_reduction">3—کاهش شدید فعالیت (مثلاً استراحت مطلق)</string>
+    <string name="self_report_score_format">امتیاز خودارزیابی = %1$d از %2$d</string>
+    <string name="clinical_score_format">امتیاز بالینی = %1$d از %2$d</string>
+    <string name="functional_score_format">امتیاز عملکردی = %1$d از %2$d</string>
+    <string name="btn_reset_forms">بازنشانی فرم‌ها</string>
+    <string name="dialog_reset_confirmation">فرم‌ها بازنشانی شوند؟</string>
+    <string name="btn_reset">بازنشانی</string>
+    <string name="btn_cancel">لغو</string>
+    <string name="ams_none">بدون AMS</string>
+    <string name="ams_mild">AMS خفیف</string>
+    <string name="ams_moderate">AMS متوسط</string>
+    <string name="ams_severe">AMS شدید</string>
+</resources>

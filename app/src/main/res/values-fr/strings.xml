@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">AUTO-ÉVALUATION</string>
+    <string name="tab_clinical">CLINIQUE</string>
+    <string name="tab_functional">FONCTIONNEL</string>
+
+    <string name="label_headache">Maux de tête</string>
+    <string name="rb_headache_0">0—Pas du tout</string>
+    <string name="rb_headache_1">1—Léger mal de tête</string>
+    <string name="rb_headache_2">2—Mal de tête modéré</string>
+    <string name="rb_headache_3">3—Mal de tête sévère, incapacitant</string>
+
+    <string name="label_gi_symptoms">Symptômes gastro-intestinaux</string>
+    <string name="rb_gi_0">0—Bon appétit</string>
+    <string name="rb_gi_1">1—Peu d\'appétit ou nausées</string>
+    <string name="rb_gi_2">2—Nausées modérées ou vomissements</string>
+    <string name="rb_gi_3">3—Nausées et vomissements sévères, incapacitants</string>
+
+    <string name="label_fatigue">Fatigue et/ou faiblesse</string>
+    <string name="rb_fatigue_0">0—Pas fatigué ni faible</string>
+    <string name="rb_fatigue_1">1—Légère fatigue/faiblesse</string>
+    <string name="rb_fatigue_2">2—Fatigue/faiblesse modérée</string>
+    <string name="rb_fatigue_3">3—Fatigue/faiblesse sévère, incapacitante</string>
+
+    <string name="label_dizziness">Étourdissements/vertiges</string>
+    <string name="rb_dizziness_0">0—Pas d\'étourdissements/vertiges</string>
+    <string name="rb_dizziness_1">1—Légers étourdissements/vertiges</string>
+    <string name="rb_dizziness_2">2—Étourdissements/vertiges modérés</string>
+    <string name="rb_dizziness_3">3—Étourdissements/vertiges sévères, incapacitants</string>
+
+    <string name="label_mental_status">Changement de l\'état mental</string>
+    <string name="rb_mental_0">0—Pas de changement de l\'état mental</string>
+    <string name="rb_mental_1">1—Léthargie/lassitude</string>
+    <string name="rb_mental_2">2—Désorienté/confus</string>
+    <string name="rb_mental_3">3—Stupeur/semi-conscience</string>
+    <string name="rb_mental_4">4—Coma</string>
+
+    <string name="label_ataxia">Ataxie (marche talon-orteil)</string>
+    <string name="rb_ataxia_0">0—Pas d\'ataxie</string>
+    <string name="rb_ataxia_1">1—Manœuvres pour maintenir l\'équilibre</string>
+    <string name="rb_ataxia_2">2—Sort de la ligne</string>
+    <string name="rb_ataxia_3">3—Tombe</string>
+    <string name="rb_ataxia_4">4—Ne peut pas tenir debout</string>
+
+    <string name="label_peripheral_edema">Œdème périphérique</string>
+    <string name="rb_edema_0">0—Pas d\'œdème périphérique</string>
+    <string name="rb_edema_1">1—Œdème périphérique à un endroit</string>
+    <string name="rb_edema_2">2—Œdème périphérique à deux endroits ou plus</string>
+
+    <string name="label_activity_impact">Dans l\'ensemble, si vous avez eu des symptômes, comment ont-ils affecté votre activité ?</string>
+    <string name="rb_no_reduction">0—Pas de réduction d\'activité</string>
+    <string name="rb_mild_reduction">1—Légère réduction d\'activité</string>
+    <string name="rb_moderate_reduction">2—Réduction modérée d\'activité</string>
+    <string name="rb_severe_reduction">3—Réduction sévère de l\'activité (ex: alitement)</string>
+
+    <string name="self_report_score_format">Score d\'auto-évaluation = %1$d sur %2$d</string>
+    <string name="clinical_score_format">Score clinique = %1$d sur %2$d</string>
+    <string name="functional_score_format">Score fonctionnel = %1$d sur %2$d</string>
+
+    <string name="btn_reset_forms">Réinitialiser les formulaires</string>
+    <string name="dialog_reset_confirmation">Réinitialiser les formulaires ?</string>
+    <string name="btn_reset">Réinitialiser</string>
+    <string name="btn_cancel">Annuler</string>
+
+    <string name="ams_none">Pas de MAM</string>
+    <string name="ams_mild">MAM léger</string>
+    <string name="ams_moderate">MAM modéré</string>
+    <string name="ams_severe">MAM sévère</string>
+</resources>

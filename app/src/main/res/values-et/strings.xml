@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">ENESEARUANNE</string>
+    <string name="tab_clinical">KLIINILINE</string>
+    <string name="tab_functional">FUNKTSIONAALNE</string>
+    <string name="label_headache">Peavalu</string>
+    <string name="rb_headache_0">0—Üldse mitte</string>
+    <string name="rb_headache_1">1—Kerge peavalu</string>
+    <string name="rb_headache_2">2—Mõõdukas peavalu</string>
+    <string name="rb_headache_3">3—Tugev peavalu, töövõimetuks tegev</string>
+    <string name="label_gi_symptoms">Seedetrakti sümptomid</string>
+    <string name="rb_gi_0">0—Hea söögiisu</string>
+    <string name="rb_gi_1">1—Halb söögiisu või iiveldus</string>
+    <string name="rb_gi_2">2—Mõõdukas iiveldus või oksendamine</string>
+    <string name="rb_gi_3">3—Raske iiveldus ja oksendamine, töövõimetuks tegev</string>
+    <string name="label_fatigue">Väsimus ja/või nõrkus</string>
+    <string name="rb_fatigue_0">0—Ei ole väsinud ega nõrk</string>
+    <string name="rb_fatigue_1">1—Kerge väsimus/nõrkus</string>
+    <string name="rb_fatigue_2">2—Mõõdukas väsimus/nõrkus</string>
+    <string name="rb_fatigue_3">3—Tugev väsimus/nõrkus, töövõimetuks tegev</string>
+    <string name="label_dizziness">Pearinglus/uimasus</string>
+    <string name="rb_dizziness_0">0—Pearinglust/uimasust ei ole</string>
+    <string name="rb_dizziness_1">1—Kerge pearinglus/uimasus</string>
+    <string name="rb_dizziness_2">2—Mõõdukas pearinglus/uimasus</string>
+    <string name="rb_dizziness_3">3—Tugev pearinglus/uimasus, töövõimetuks tegev</string>
+    <string name="label_mental_status">Vaimse seisundi muutus</string>
+    <string name="rb_mental_0">0—Vaimse seisundi muutust ei ole</string>
+    <string name="rb_mental_1">1—Letargia/rammestus</string>
+    <string name="rb_mental_2">2—Desorienteeritud/segaduses</string>
+    <string name="rb_mental_3">3—Stuupor/poolteadvus</string>
+    <string name="rb_mental_4">4—Kooma</string>
+    <string name="label_ataxia">Ataksia (kand-varvas kõnd)</string>
+    <string name="rb_ataxia_0">0—Ataksiat ei ole</string>
+    <string name="rb_ataxia_1">1—Manöövrid tasakaalu hoidmiseks</string>
+    <string name="rb_ataxia_2">2—Astub liinilt kõrvale</string>
+    <string name="rb_ataxia_3">3—Kukub maha</string>
+    <string name="rb_ataxia_4">4—Ei suuda seista</string>
+    <string name="label_peripheral_edema">Perifeerne turse</string>
+    <string name="rb_edema_0">0—Perifeerset turset ei ole</string>
+    <string name="rb_edema_1">1—Perifeerne turse ühes kohas</string>
+    <string name="rb_edema_2">2—Perifeerne turse kahes või enamas kohas</string>
+    <string name="label_activity_impact">Kokkuvõttes, kui teil esines sümptomeid, kuidas need teie tegevust mõjutasid?</string>
+    <string name="rb_no_reduction">0—Tegevus ei ole vähenenud</string>
+    <string name="rb_mild_reduction">1—Tegevuse kerge vähenemine</string>
+    <string name="rb_moderate_reduction">2—Tegevuse mõõdukas vähenemine</string>
+    <string name="rb_severe_reduction">3—Tegevuse tugev vähenemine (nt voodirežiim)</string>
+    <string name="self_report_score_format">Enesearuande skoor = %1$d / %2$d</string>
+    <string name="clinical_score_format">Kliiniline skoor = %1$d / %2$d</string>
+    <string name="functional_score_format">Funktsionaalne skoor = %1$d / %2$d</string>
+    <string name="btn_reset_forms">Lähtesta vormid</string>
+    <string name="dialog_reset_confirmation">Lähtesta vormid?</string>
+    <string name="btn_reset">Lähtesta</string>
+    <string name="btn_cancel">Tühista</string>
+    <string name="ams_none">MAM puudub</string>
+    <string name="ams_mild">Kerge MAM</string>
+    <string name="ams_moderate">Mõõdukas MAM</string>
+    <string name="ams_severe">Raske MAM</string>
+</resources>

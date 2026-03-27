@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">SARILING-ULAT</string>
+    <string name="tab_clinical">KLINIKAL</string>
+    <string name="tab_functional">PUNKSYONAL</string>
+
+    <string name="label_headache">Sakit ng ulo</string>
+    <string name="rb_headache_0">0—Wala man lang</string>
+    <string name="rb_headache_1">1—Bahagyang sakit ng ulo</string>
+    <string name="rb_headache_2">2—Katamtamang sakit ng ulo</string>
+    <string name="rb_headache_3">3—Malalang sakit ng ulo, nakakapanghina</string>
+
+    <string name="label_gi_symptoms">Mga sintomas sa sikmura</string>
+    <string name="rb_gi_0">0—Magandang gana sa pagkain</string>
+    <string name="rb_gi_1">1—Mahinang gana o pagduduwal</string>
+    <string name="rb_gi_2">2—Katamtamang pagduduwal o pagsusuka</string>
+    <string name="rb_gi_3">3—Malalang pagduduwal at pagsusuka, nakakapanghina</string>
+
+    <string name="label_fatigue">Pagkapagod at/o kahinaan</string>
+    <string name="rb_fatigue_0">0—Hindi pagod o mahina</string>
+    <string name="rb_fatigue_1">1—Bahagyang pagkapagod/kahinaan</string>
+    <string name="rb_fatigue_2">2—Katamtamang pagkapagod/kahinaan</string>
+    <string name="rb_fatigue_3">3—Malalang pagkapagod/kahinaan, nakakapanghina</string>
+
+    <string name="label_dizziness">Pagkahilo/magaan ang pakiramdam ng ulo</string>
+    <string name="rb_dizziness_0">0—Walang pagkahilo/magaan ang pakiramdam ng ulo</string>
+    <string name="rb_dizziness_1">1—Bahagyang pagkahilo/magaan ang pakiramdam ng ulo</string>
+    <string name="rb_dizziness_2">2—Katamtamang pagkahilo/magaan ang pakiramdam ng ulo</string>
+    <string name="rb_dizziness_3">3—Malalang pagkahilo/magaan ang pakiramdam ng ulo, nakakapanghina</string>
+
+    <string name="label_mental_status">Pagbabago sa mental na katayuan</string>
+    <string name="rb_mental_0">0—Walang pagbabago sa mental na katayuan</string>
+    <string name="rb_mental_1">1—Panghihina/pagkaantok</string>
+    <string name="rb_mental_2">2—Nalilito/naguguluhan</string>
+    <string name="rb_mental_3">3—Stupor/halos walang malay</string>
+    <string name="rb_mental_4">4—Koma</string>
+
+    <string name="label_ataxia">Ataxia (paglakad ng sakong patungong daliri ng paa)</string>
+    <string name="rb_ataxia_0">0—Walang ataxia</string>
+    <string name="rb_ataxia_1">1—Mga pagkilos para mapanatili ang balanse</string>
+    <string name="rb_ataxia_2">2—Paghakbang palabas ng linya</string>
+    <string name="rb_ataxia_3">3—Natutumba</string>
+    <string name="rb_ataxia_4">4—Hindi makatayo</string>
+
+    <string name="label_peripheral_edema">Peripheral edema (pamamanas)</string>
+    <string name="rb_edema_0">0—Walang pamamanas</string>
+    <string name="rb_edema_1">1—Pamamanas sa isang lokasyon</string>
+    <string name="rb_edema_2">2—Pamamanas sa dalawa o higit pang lokasyon</string>
+
+    <string name="label_activity_impact">Sa pangkalahatan, kung nagkaroon ka ng anumang sintomas, paano nito naapektuhan ang iyong aktibidad?</string>
+    <string name="rb_no_reduction">0—Walang pagbabawas sa aktibidad</string>
+    <string name="rb_mild_reduction">1—Bahagyang pagbabawas sa aktibidad</string>
+    <string name="rb_moderate_reduction">2—Katamtamang pagbabawas sa aktibidad</string>
+    <string name="rb_severe_reduction">3—Malalang pagbabawas sa aktibidad (hal. bedrest)</string>
+
+    <string name="self_report_score_format">Iskor ng sariling-ulat = %1$d sa %2$d</string>
+    <string name="clinical_score_format">Klinikal na iskor = %1$d sa %2$d</string>
+    <string name="functional_score_format">Punksyonal na iskor = %1$d sa %2$d</string>
+
+    <string name="btn_reset_forms">I-reset ang mga form</string>
+    <string name="dialog_reset_confirmation">I-reset ang mga form?</string>
+    <string name="btn_reset">I-reset</string>
+    <string name="btn_cancel">Kanselahin</string>
+
+    <string name="ams_none">Walang AMS</string>
+    <string name="ams_mild">Bahagyang AMS</string>
+    <string name="ams_moderate">Katamtamang AMS</string>
+    <string name="ams_severe">Malalang AMS</string>
+</resources>

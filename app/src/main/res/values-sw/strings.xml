@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">RIPOTI BINAFSI</string>
+    <string name="tab_clinical">KLINIKI</string>
+    <string name="tab_functional">KAZI</string>
+
+    <string name="label_headache">Maumivu ya kichwa</string>
+    <string name="rb_headache_0">0—Hakuna kabisa</string>
+    <string name="rb_headache_1">1—Maumivu kidogo ya kichwa</string>
+    <string name="rb_headache_2">2—Maumivu ya kiasi ya kichwa</string>
+    <string name="rb_headache_3">3—Maumivu makali ya kichwa, yanayolemaza</string>
+
+    <string name="label_gi_symptoms">Dalili za mfumo wa mmeng\'enyo</string>
+    <string name="rb_gi_0">0—Hamna ya chakula nzuri</string>
+    <string name="rb_gi_1">1—Hamna ya chakula hafifu au kichefuchefu</string>
+    <string name="rb_gi_2">2—Kichefuchefu cha kiasi au kutapika</string>
+    <string name="rb_gi_3">3—Kichefuchefu kikali na kutapika, yanayolemaza</string>
+
+    <string name="label_fatigue">Uchovu na/au udhaifu</string>
+    <string name="rb_fatigue_0">0—Si mchovu wala dhaifu</string>
+    <string name="rb_fatigue_1">1—Uchovu/udhaifu kidogo</string>
+    <string name="rb_fatigue_2">2—Uchovu/udhaifu wa kiasi</string>
+    <string name="rb_fatigue_3">3—Uchovu/udhaifu mkali, yanayolemaza</string>
+
+    <string name="label_dizziness">Kizunguzungu/kichwa kuwa chepesi</string>
+    <string name="rb_dizziness_0">0—Hakuna kizunguzungu/kichwa kuwa chepesi</string>
+    <string name="rb_dizziness_1">1—Kizunguzungu/kichwa kuwa chepesi kidogo</string>
+    <string name="rb_dizziness_2">2—Kizunguzungu/kichwa kuwa chepesi kwa kiasi</string>
+    <string name="rb_dizziness_3">3—Kizunguzungu/kichwa kuwa chepesi sana, yanayolemaza</string>
+
+    <string name="label_mental_status">Mabadiliko katika hali ya akili</string>
+    <string name="rb_mental_0">0—Hakuna mabadiliko katika hali ya akili</string>
+    <string name="rb_mental_1">1—Uchovu mwingi/uchovu</string>
+    <string name="rb_mental_2">2—Kuchanganyikiwa</string>
+    <string name="rb_mental_3">3—Ganzi/nusu fahamu</string>
+    <string name="rb_mental_4">4—Koma</string>
+
+    <string name="label_ataxia">Ataksia (kutembea kisigino kwa kidole)</string>
+    <string name="rb_ataxia_0">0—Hakuna ataksia</string>
+    <string name="rb_ataxia_1">1—Maneuva ya kudumisha usawa</string>
+    <string name="rb_ataxia_2">2—Kuhama kwenye mstari</string>
+    <string name="rb_ataxia_3">3—Kuanguka chini</string>
+    <string name="rb_ataxia_4">4—Hawezi kusimama</string>
+
+    <string name="label_peripheral_edema">Edema ya pembeni (uvimbe)</string>
+    <string name="rb_edema_0">0—Hakuna edema ya pembeni</string>
+    <string name="rb_edema_1">1—Edema ya pembeni mahali pamoja</string>
+    <string name="rb_edema_2">2—Edema ya pembeni katika maeneo mawili au zaidi</string>
+
+    <string name="label_activity_impact">Kwa ujumla, kama ulikuwa na dalili zozote, ziliathiri vipi shughuli zako?</string>
+    <string name="rb_no_reduction">0—Hakuna upungufu wa shughuli</string>
+    <string name="rb_mild_reduction">1—Upungufu mdogo wa shughuli</string>
+    <string name="rb_moderate_reduction">2—Upungufu wa kiasi wa shughuli</string>
+    <string name="rb_severe_reduction">3—Upungufu mkubwa wa shughuli (mfano kupumzika kitandani)</string>
+
+    <string name="self_report_score_format">Alama ya ripoti binafsi = %1$d kati ya %2$d</string>
+    <string name="clinical_score_format">Alama ya kliniki = %1$d kati ya %2$d</string>
+    <string name="functional_score_format">Alama ya kazi = %1$d kati ya %2$d</string>
+
+    <string name="btn_reset_forms">Weka upya fomu</string>
+    <string name="dialog_reset_confirmation">Weka upya fomu?</string>
+    <string name="btn_reset">Weka upya</string>
+    <string name="btn_cancel">Ghairi</string>
+
+    <string name="ams_none">Hamna AMS</string>
+    <string name="ams_mild">AMS Kidogo</string>
+    <string name="ams_moderate">AMS ya Kiasi</string>
+    <string name="ams_severe">AMS Kali</string>
+</resources>

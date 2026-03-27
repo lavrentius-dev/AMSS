@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">FÉIN-THUAISCISC</string>
+    <string name="tab_clinical">CLIINICIÚIL</string>
+    <string name="tab_functional">FEIDHMIÚIL</string>
+    <string name="label_headache">Tinneas cinn</string>
+    <string name="rb_headache_0">0—Ní hea ar chor ar bith</string>
+    <string name="rb_headache_1">1—Tinneas cinn éadrom</string>
+    <string name="rb_headache_2">2—Tinneas cinn measartha</string>
+    <string name="rb_headache_3">3—Tinneas cinn trom, éagumasach</string>
+    <string name="label_gi_symptoms">Siomptóim gastrointestinal</string>
+    <string name="rb_gi_0">0—Goile maith</string>
+    <string name="rb_gi_1">1—Goile bocht nó masmas</string>
+    <string name="rb_gi_2">2—Masmas measartha nó urlacan</string>
+    <string name="rb_gi_3">3—Masmas agus urlacan trom, éagumasach</string>
+    <string name="label_fatigue">Tuirse agus/nó laige</string>
+    <string name="rb_fatigue_0">0—Gan a bheith tuirseach nó lag</string>
+    <string name="rb_fatigue_1">1—Tuirse/laige éadrom</string>
+    <string name="rb_fatigue_2">2—Tuirse/laige mheasartha</string>
+    <string name="rb_fatigue_3">3—Tuirse/laige throm, éagumasach</string>
+    <string name="label_dizziness">Meadhrán/ceann éadrom</string>
+    <string name="rb_dizziness_0">0—Gan mheadhrán/ceann éadrom</string>
+    <string name="rb_dizziness_1">1—Meadhrán/ceann éadrom éadrom</string>
+    <string name="rb_dizziness_2">2—Meadhrán/ceann éadrom measartha</string>
+    <string name="rb_dizziness_3">3—Meadhrán/ceann éadrom trom, éagumasach</string>
+    <string name="label_mental_status">Athrú ar stádas meabhrach</string>
+    <string name="rb_mental_0">0—Gan aon athrú ar stádas meabhrach</string>
+    <string name="rb_mental_1">1—Leitirgis/laslacht</string>
+    <string name="rb_mental_2">2—Dírithe go dona/mearphall orm</string>
+    <string name="rb_mental_3">3—Stiúpar/leath-chomhfhiosach</string>
+    <string name="rb_mental_4">4—Cóma</string>
+    <string name="label_ataxia">Atacsia (siúl sáil go ladhar)</string>
+    <string name="rb_ataxia_0">0—Gan atacsia</string>
+    <string name="rb_ataxia_1">1—Mainéir chun cothromaíocht a choinneáil</string>
+    <string name="rb_ataxia_2">2—Céimeanna den líne</string>
+    <string name="rb_ataxia_3">3—Titeann sé síos</string>
+    <string name="rb_ataxia_4">4—Ní féidir seasamh</string>
+    <string name="label_peripheral_edema">Éidéime forimeallach</string>
+    <string name="rb_edema_0">0—Gan éidéime forimeallach</string>
+    <string name="rb_edema_1">1—Éidéime forimeallach ag láthair amháin</string>
+    <string name="rb_edema_2">2—Éidéime forimeallach ag dhá láthair nó níos mó</string>
+    <string name="label_activity_impact">Tríd is tríd, má bhí aon siomptóim ort, cén tionchar a bhí acu ar do ghníomhaíocht?</string>
+    <string name="rb_no_reduction">0—Gan laghdú ar ghníomhaíocht</string>
+    <string name="rb_mild_reduction">1—Laghdú beag ar ghníomhaíocht</string>
+    <string name="rb_moderate_reduction">2—Laghdú measartha ar ghníomhaíocht</string>
+    <string name="rb_severe_reduction">3—Laghdú mór ar ghníomhaíocht (m.sh. scíth leaba)</string>
+    <string name="self_report_score_format">Scór féintuairisce = %1$d as %2$d</string>
+    <string name="clinical_score_format">Scór cliniciúil = %1$d as %2$d</string>
+    <string name="functional_score_format">Scór feidhmiúil = %1$d as %2$d</string>
+    <string name="btn_reset_forms">Athshocraigh foirmeacha</string>
+    <string name="dialog_reset_confirmation">Athshocraigh foirmeacha?</string>
+    <string name="btn_reset">Athshocraigh</string>
+    <string name="btn_cancel">Cealaigh</string>
+    <string name="ams_none">Gan AMS</string>
+    <string name="ams_mild">AMS Éadrom</string>
+    <string name="ams_moderate">AMS Measartha</string>
+    <string name="ams_severe">AMS Trom</string>
+</resources>

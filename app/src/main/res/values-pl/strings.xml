@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">SAMOOCENA</string>
+    <string name="tab_clinical">KLINICZNY</string>
+    <string name="tab_functional">FUNKCJONALNY</string>
+    <string name="label_headache">Ból głowy</string>
+    <string name="rb_headache_0">0—Wcale</string>
+    <string name="rb_headache_1">1—Łagodny ból głowy</string>
+    <string name="rb_headache_2">2—Umiarkowany ból głowy</string>
+    <string name="rb_headache_3">3—Silny ból głowy, uniemożliwiający funkcjonowanie</string>
+    <string name="label_gi_symptoms">Objawy żołądkowo-jelitowe</string>
+    <string name="rb_gi_0">0—Dobry apetyt</string>
+    <string name="rb_gi_1">1—Słaby apetyt lub nudności</string>
+    <string name="rb_gi_2">2—Umiarkowane nudności lub wymioty</string>
+    <string name="rb_gi_3">3—Silne nudności i wymioty, uniemożliwiające funkcjonowanie</string>
+    <string name="label_fatigue">Zmęczenie i/lub osłabienie</string>
+    <string name="rb_fatigue_0">0—Brak zmęczenia lub osłabienia</string>
+    <string name="rb_fatigue_1">1—Łagodne zmęczenie/osłabienie</string>
+    <string name="rb_fatigue_2">2—Umiarkowane zmęczenie/osłabienie</string>
+    <string name="rb_fatigue_3">3—Silne zmęczenie/osłabienie, uniemożliwiające funkcjonowanie</string>
+    <string name="label_dizziness">Zawroty głowy/mroczki przed oczami</string>
+    <string name="rb_dizziness_0">0—Brak zawrotów głowy</string>
+    <string name="rb_dizziness_1">1—Łagodne zawroty głowy</string>
+    <string name="rb_dizziness_2">2—Umiarkowane zawroty głowy</string>
+    <string name="rb_dizziness_3">3—Silne zawroty głowy, uniemożliwiające funkcjonowanie</string>
+    <string name="label_mental_status">Zmiana stanu psychicznego</string>
+    <string name="rb_mental_0">0—Brak zmian w stanie psychicznym</string>
+    <string name="rb_mental_1">1—Letarg/nużliwość</string>
+    <string name="rb_mental_2">2—Zdezorientowany/zmieszany</string>
+    <string name="rb_mental_3">3—Stupor/półprzytomność</string>
+    <string name="rb_mental_4">4—Śpiączka</string>
+    <string name="label_ataxia">Ataksja (chodzenie od pięty do palców)</string>
+    <string name="rb_ataxia_0">0—Brak ataksji</string>
+    <string name="rb_ataxia_1">1—Manewry w celu utrzymania równowagi</string>
+    <string name="rb_ataxia_2">2—Schodzenie z linii</string>
+    <string name="rb_ataxia_3">3—Upadki</string>
+    <string name="rb_ataxia_4">4—Nie może stać</string>
+    <string name="label_peripheral_edema">Obrzęki obwodowe</string>
+    <string name="rb_edema_0">0—Brak obrzęków obwodowych</string>
+    <string name="rb_edema_1">1—Obrzęk obwodowy w jednej lokalizacji</string>
+    <string name="rb_edema_2">2—Obrzęki obwodowe w dwóch lub więcej lokalizacjach</string>
+    <string name="label_activity_impact">Ogólnie rzecz biorąc, jeśli wystąpiły jakiekolwiek objawy, jak wpłynęły one na Twoją aktywność?</string>
+    <string name="rb_no_reduction">0—Brak ograniczenia aktywności</string>
+    <string name="rb_mild_reduction">1—Łagodne ograniczenie aktywności</string>
+    <string name="rb_moderate_reduction">2—Umiarkowane ograniczenie aktywności</string>
+    <string name="rb_severe_reduction">3—Silne ograniczenie aktywności (np. leżenie w łóżku)</string>
+    <string name="self_report_score_format">Wynik samooceny = %1$d z %2$d</string>
+    <string name="clinical_score_format">Wynik kliniczny = %1$d z %2$d</string>
+    <string name="functional_score_format">Wynik funkcjonalny = %1$d z %2$d</string>
+    <string name="btn_reset_forms">Zresetuj formularze</string>
+    <string name="dialog_reset_confirmation">Zresetować formularze?</string>
+    <string name="btn_reset">Resetuj</string>
+    <string name="btn_cancel">Anuluj</string>
+    <string name="ams_none">Brak AMS</string>
+    <string name="ams_mild">Łagodny AMS</string>
+    <string name="ams_moderate">Umiarkowany AMS</string>
+    <string name="ams_severe">Ciężki AMS</string>
+</resources>

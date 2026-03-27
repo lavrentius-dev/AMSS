@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">SELBSTBERICHT</string>
+    <string name="tab_clinical">KLINISCH</string>
+    <string name="tab_functional">FUNKTIONAL</string>
+
+    <string name="label_headache">Kopfschmerz</string>
+    <string name="rb_headache_0">0—Gar nicht</string>
+    <string name="rb_headache_1">1—Leichter Kopfschmerz</string>
+    <string name="rb_headache_2">2—Mäßiger Kopfschmerz</string>
+    <string name="rb_headache_3">3—Starker Kopfschmerz, arbeitsunfähig</string>
+
+    <string name="label_gi_symptoms">Magen-Darm-Symptome</string>
+    <string name="rb_gi_0">0—Guter Appetit</string>
+    <string name="rb_gi_1">1—Schlechter Appetit oder Übelkeit</string>
+    <string name="rb_gi_2">2—Mäßige Übelkeit oder Erbrechen</string>
+    <string name="rb_gi_3">3—Starke Übelkeit und Erbrechen, arbeitsunfähig</string>
+
+    <string name="label_fatigue">Müdigkeit und/oder Schwäche</string>
+    <string name="rb_fatigue_0">0—Nicht müde oder schwach</string>
+    <string name="rb_fatigue_1">1—Leichte Müdigkeit/Schwäche</string>
+    <string name="rb_fatigue_2">2—Mäßige Müdigkeit/Schwäche</string>
+    <string name="rb_fatigue_3">3—Starke Müdigkeit/Schwäche, arbeitsunfähig</string>
+
+    <string name="label_dizziness">Schwindel/Benommenheit</string>
+    <string name="rb_dizziness_0">0—Kein Schwindel/Benommenheit</string>
+    <string name="rb_dizziness_1">1—Leichter Schwindel/Benommenheit</string>
+    <string name="rb_dizziness_2">2—Mäßiger Schwindel/Benommenheit</string>
+    <string name="rb_dizziness_3">3—Starker Schwindel/Benommenheit, arbeitsunfähig</string>
+
+    <string name="label_mental_status">Veränderung des geistigen Zustands</string>
+    <string name="rb_mental_0">0—Keine Veränderung des geistigen Zustands</string>
+    <string name="rb_mental_1">1—Lethargie/Mattigkeit</string>
+    <string name="rb_mental_2">2—Desorientiert/verwirrt</string>
+    <string name="rb_mental_3">3—Stupor/Halbbewusstlosigkeit</string>
+    <string name="rb_mental_4">4—Koma</string>
+
+    <string name="label_ataxia">Ataxie (Fersen-Zeh-Gang)</string>
+    <string name="rb_ataxia_0">0—Keine Ataxie</string>
+    <string name="rb_ataxia_1">1—Manöver zum Halten des Gleichgewichts</string>
+    <string name="rb_ataxia_2">2—Tritt von der Linie ab</string>
+    <string name="rb_ataxia_3">3—Fällt hin</string>
+    <string name="rb_ataxia_4">4—Kann nicht stehen</string>
+
+    <string name="label_peripheral_edema">Periphere Ödeme</string>
+    <string name="rb_edema_0">0—Keine peripheren Ödeme</string>
+    <string name="rb_edema_1">1—Peripheres Ödem an einer Stelle</string>
+    <string name="rb_edema_2">2—Periphere Ödeme an zwei oder mehr Stellen</string>
+
+    <string name="label_activity_impact">Wie haben sich eventuelle Symptome insgesamt auf Ihre Aktivität ausgewirkt?</string>
+    <string name="rb_no_reduction">0—Keine Einschränkung der Aktivität</string>
+    <string name="rb_mild_reduction">1—Leichte Einschränkung der Aktivität</string>
+    <string name="rb_moderate_reduction">2—Mäßige Einschränkung der Aktivität</string>
+    <string name="rb_severe_reduction">3—Starke Einschränkung der Aktivität (z. B. Bettruhe)</string>
+
+    <string name="self_report_score_format">Selbstbericht-Score = %1$d von %2$d</string>
+    <string name="clinical_score_format">Klinischer Score = %1$d von %2$d</string>
+    <string name="functional_score_format">Funktionaler Score = %1$d von %2$d</string>
+
+    <string name="btn_reset_forms">Formulare zurücksetzen</string>
+    <string name="dialog_reset_confirmation">Formulare zurücksetzen?</string>
+    <string name="btn_reset">Zurücksetzen</string>
+    <string name="btn_cancel">Abbrechen</string>
+
+    <string name="ams_none">Keine AMS</string>
+    <string name="ams_mild">Leichte AMS</string>
+    <string name="ams_moderate">Mittelschwere AMS</string>
+    <string name="ams_severe">Schwere AMS</string>
+</resources>

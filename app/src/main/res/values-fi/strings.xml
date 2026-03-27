@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">ITSERAPORTOINTI</string>
+    <string name="tab_clinical">KLIININEN</string>
+    <string name="tab_functional">TOIMINNALLINEN</string>
+    <string name="label_headache">Päänsärky</string>
+    <string name="rb_headache_0">0—Ei lainkaan</string>
+    <string name="rb_headache_1">1—Lievä päänsärky</string>
+    <string name="rb_headache_2">2—Kohtalainen päänsärky</string>
+    <string name="rb_headache_3">3—Vaikea päänsärky, toimintakyvytön</string>
+    <string name="label_gi_symptoms">Ruoansulatuskanavan oireet</string>
+    <string name="rb_gi_0">0—Hyvä ruokahalu</string>
+    <string name="rb_gi_1">1—Huono ruokahalu tai pahoinvointia</string>
+    <string name="rb_gi_2">2—Kohtalaista pahoinvointia tai oksentelua</string>
+    <string name="rb_gi_3">3—Vaikeaa pahoinvointia ja oksentelua, toimintakyvytön</string>
+    <string name="label_fatigue">Väsymys ja/tai heikkous</string>
+    <string name="rb_fatigue_0">0—Ei väsynyt tai heikko</string>
+    <string name="rb_fatigue_1">1—Lievä väsymys/heikkous</string>
+    <string name="rb_fatigue_2">2—Kohtalainen väsymys/heikkous</string>
+    <string name="rb_fatigue_3">3—Vaikea väsymys/heikkous, toimintakyvytön</string>
+    <string name="label_dizziness">Huimaus/pyörrytys</string>
+    <string name="rb_dizziness_0">0—Ei huimausta/pyörrytystä</string>
+    <string name="rb_dizziness_1">1—Lievä huimaus/pyörrytys</string>
+    <string name="rb_dizziness_2">2—Kohtalainen huimaus/pyörrytys</string>
+    <string name="rb_dizziness_3">3—Vaikea huimaus/pyörrytys, toimintakyvytön</string>
+    <string name="label_mental_status">Muutos mielentilassa</string>
+    <string name="rb_mental_0">0—Ei muutosta mielentilassa</string>
+    <string name="rb_mental_1">1—Letargia/uupumus</string>
+    <string name="rb_mental_2">2—Sekavuus/desorientaatio</string>
+    <string name="rb_mental_3">3—Stupor/puolitajuttomuus</string>
+    <string name="rb_mental_4">4—Kooma</string>
+    <string name="label_ataxia">Ataksia (kantapää-varvas-kävely)</string>
+    <string name="rb_ataxia_0">0—Ei ataksiaa</string>
+    <string name="rb_ataxia_1">1—Tasapainon ylläpitämiseen tarvittavat liikkeet</string>
+    <string name="rb_ataxia_2">2—Astuu linjan ulkopuolelle</string>
+    <string name="rb_ataxia_3">3—Kaatuu</string>
+    <string name="rb_ataxia_4">4—Ei pysty seisomaan</string>
+    <string name="label_peripheral_edema">Perifeerinen turvotus</string>
+    <string name="rb_edema_0">0—Ei perifeeristä turvotusta</string>
+    <string name="rb_edema_1">1—Perifeerinen turvotus yhdessä paikassa</string>
+    <string name="rb_edema_2">2—Perifeerinen turvotus kahdessa tai useammassa paikassa</string>
+    <string name="label_activity_impact">Kaiken kaikkiaan, jos sinulla oli oireita, miten ne vaikuttivat toimintaasi?</string>
+    <string name="rb_no_reduction">0—Ei toiminnan heikkenemistä</string>
+    <string name="rb_mild_reduction">1—Lievä toiminnan heikkeneminen</string>
+    <string name="rb_moderate_reduction">2—Kohtalainen toiminnan heikkeneminen</string>
+    <string name="rb_severe_reduction">3—Vaikea toiminnan heikkeneminen (esim. vuodelepo)</string>
+    <string name="self_report_score_format">Itseraportointipisteet = %1$d / %2$d</string>
+    <string name="clinical_score_format">Kliiniset pisteet = %1$d / %2$d</string>
+    <string name="functional_score_format">Toiminnalliset pisteet = %1$d / %2$d</string>
+    <string name="btn_reset_forms">Nollaa lomakkeet</string>
+    <string name="dialog_reset_confirmation">Nollaa lomakkeet?</string>
+    <string name="btn_reset">Nollaa</string>
+    <string name="btn_cancel">Peruuta</string>
+    <string name="ams_none">Ei AMS:ää</string>
+    <string name="ams_mild">Lievä AMS</string>
+    <string name="ams_moderate">Kohtalainen AMS</string>
+    <string name="ams_severe">Vaikea AMS</string>
+</resources>

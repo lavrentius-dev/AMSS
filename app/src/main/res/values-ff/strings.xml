@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">HABAARU HORE</string>
+    <string name="tab_clinical">NYAWDAL</string>
+    <string name="tab_functional">GOLLE</string>
+
+    <string name="label_headache">Naawalla hoore</string>
+    <string name="rb_headache_0">0—Walaa sam</string>
+    <string name="rb_headache_1">1—Hoore naawalla seeda</string>
+    <string name="rb_headache_2">2—Hoore naawalla hakkundeerjo</string>
+    <string name="rb_headache_3">3—Hoore naawalla sanne, haa wawaa gollole</string>
+
+    <string name="label_gi_symptoms">Alamaaji reedu</string>
+    <string name="rb_gi_0">0—Hooru nyoogo jam</string>
+    <string name="rb_gi_1">1—Hooru nyoogo famda walla looƴorde</string>
+    <string name="rb_gi_2">2—Looƴorde hakkundeerjo walla tuutaango</string>
+    <string name="rb_gi_3">3—Looƴorde e tuutaango sanne, haa wawaa gollole</string>
+
+    <string name="label_fatigue">Tampere walla lo\'ere</string>
+    <string name="rb_fatigue_0">0—Tampaa walla lo\'aa</string>
+    <string name="rb_fatigue_1">1—Tampere/lo\'ere famda</string>
+    <string name="rb_fatigue_2">2—Tampere/lo\'ere hakkundeerjo</string>
+    <string name="rb_fatigue_3">3—Tampere/lo\'ere sanne, haa wawaa gollole</string>
+
+    <string name="label_dizziness">Giilol hoore</string>
+    <string name="rb_dizziness_0">0—Walaa giilol hoore</string>
+    <string name="rb_dizziness_1">1—Giilol hoore famda</string>
+    <string name="rb_dizziness_2">2—Giilol hoore hakkundeerjo</string>
+    <string name="rb_dizziness_3">3—Giilol hoore sanne, haa wawaa gollole</string>
+
+    <string name="label_mental_status">Waylotoonde hakkille</string>
+    <string name="rb_mental_0">0—Walaa waylotoonde hakkille</string>
+    <string name="rb_mental_1">1—Ɓoylere/tampere hakkille</string>
+    <string name="rb_mental_2">2—Duhere/katture</string>
+    <string name="rb_mental_3">3—Maayɓere/reeta-hakkille</string>
+    <string name="rb_mental_4">4—Coma (maayɓere poy)</string>
+
+    <string name="label_ataxia">Ataxia (yaadu teppe e ɓi-kosngal)</string>
+    <string name="rb_ataxia_0">0—Walaa ataxia</string>
+    <string name="rb_ataxia_1">1—Eartagol ngam tiggagol</string>
+    <string name="rb_ataxia_2">2—Yaltugol laawol yaadu</string>
+    <string name="rb_ataxia_3">3—Saamaango</string>
+    <string name="rb_ataxia_4">4—Wawaa darnagol</string>
+
+    <string name="label_peripheral_edema">Ɓuutaango (edema)</string>
+    <string name="rb_edema_0">0—Walaa ɓuutaango</string>
+    <string name="rb_edema_1">1—Ɓuutaango e nokku gooto</string>
+    <string name="rb_edema_2">2—Ɓuutaango e nokkuuji ɗiɗi walla ko ɓuri ɗum</string>
+
+    <string name="label_activity_impact">Ko foti, si a woodi alamaaji, holno ɗi njakkini golle ma?</string>
+    <string name="rb_no_reduction">0—Walaa ustagol golle</string>
+    <string name="rb_mild_reduction">1—Ustagol golle famda</string>
+    <string name="rb_moderate_reduction">2—Ustagol golle hakkundeerjo</string>
+    <string name="rb_severe_reduction">3—Ustagol golle sanne (yeru fukkagol e leeso)</string>
+
+    <string name="self_report_score_format">Iye hapaaru hore = %1$d e %2$d</string>
+    <string name="clinical_score_format">Iye nyawdal = %1$d e %2$d</string>
+    <string name="functional_score_format">Iye golle = %1$d e %2$d</string>
+
+    <string name="btn_reset_forms">Fudditoo foomuuji</string>
+    <string name="dialog_reset_confirmation">Fudditoo foomuuji?</string>
+    <string name="btn_reset">Fudditoo</string>
+    <string name="btn_cancel">Woppu</string>
+
+    <string name="ams_none">Walaa AMS</string>
+    <string name="ams_mild">AMS famda</string>
+    <string name="ams_moderate">AMS hakkundeerjo</string>
+    <string name="ams_severe">AMS sanne</string>
+</resources>

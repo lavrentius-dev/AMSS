@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/self_report_scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".ui.selfreport.SelfReportFragment">
+
+    <LinearLayout
+        android:id="@+id/self_report_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="center_horizontal">
+
+        <!-- Section 1: Headache -->
+        <TextView
+            android:id="@+id/tv_headache_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label_headache"
+            android:textStyle="bold"
+            android:textAppearance="?attr/textAppearanceBody1"
+            android:layout_marginBottom="16dp" />
+
+        <RadioGroup
+            android:id="@+id/rg_headache"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <RadioButton
+                android:id="@+id/rb_headache_0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_headache_0"
+                android:checked="true"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_headache_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_headache_1"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_headache_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_headache_2"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_headache_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_headache_3"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+        </RadioGroup>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+            <View
+                android:id="@+id/divider1"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:background="@color/antique_white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.8" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <!-- Section 2: Gastrointestinal symptoms -->
+        <TextView
+            android:id="@+id/tv_gi_symptoms_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label_gi_symptoms"
+            android:textStyle="bold"
+            android:textAppearance="?attr/textAppearanceBody1"
+            android:layout_marginBottom="16dp" />
+
+        <RadioGroup
+            android:id="@+id/rg_gi_symptoms"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <RadioButton
+                android:id="@+id/rb_gi_0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_gi_0"
+                android:checked="true"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_gi_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_gi_1"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_gi_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_gi_2"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_gi_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_gi_3"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+        </RadioGroup>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+            <View
+                android:id="@+id/divider2"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:background="@color/antique_white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.8" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <!-- Section 3: Fatigue and/or weakness -->
+        <TextView
+            android:id="@+id/tv_fatigue_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label_fatigue"
+            android:textStyle="bold"
+            android:textAppearance="?attr/textAppearanceBody1"
+            android:layout_marginBottom="16dp" />
+
+        <RadioGroup
+            android:id="@+id/rg_fatigue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <RadioButton
+                android:id="@+id/rb_fatigue_0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_fatigue_0"
+                android:checked="true"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_fatigue_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_fatigue_1"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_fatigue_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_fatigue_2"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_fatigue_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_fatigue_3"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+        </RadioGroup>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+            <View
+                android:id="@+id/divider3"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:background="@color/antique_white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.8" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <!-- Section 4: Dizziness/light-headedness -->
+        <TextView
+            android:id="@+id/tv_dizziness_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label_dizziness"
+            android:textStyle="bold"
+            android:textAppearance="?attr/textAppearanceBody1"
+            android:layout_marginBottom="16dp" />
+
+        <RadioGroup
+            android:id="@+id/rg_dizziness"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <RadioButton
+                android:id="@+id/rb_dizziness_0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_dizziness_0"
+                android:checked="true"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_dizziness_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_dizziness_1"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_dizziness_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_dizziness_2"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_dizziness_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rb_dizziness_3"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+        </RadioGroup>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+            <View
+                android:id="@+id/divider4"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:background="@color/antique_white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.8" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/tv_self_report_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Self-report score = 0 of 12"
+            android:textColor="@color/dark_orange"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_reset_forms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_reset_forms"
+            android:textColor="@color/antique_white"
+            app:backgroundTint="@color/sea_green"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+</ScrollView>

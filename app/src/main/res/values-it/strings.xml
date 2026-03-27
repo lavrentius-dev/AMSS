@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">AUTOCERTIFICAZIONE</string>
+    <string name="tab_clinical">CLINICO</string>
+    <string name="tab_functional">FUNZIONALE</string>
+    <string name="label_headache">Mal di testa</string>
+    <string name="rb_headache_0">0—Per niente</string>
+    <string name="rb_headache_1">1—Lieve mal di testa</string>
+    <string name="rb_headache_2">2—Mal di testa moderato</string>
+    <string name="rb_headache_3">3—Mal di testa grave, invalidante</string>
+    <string name="label_gi_symptoms">Sintomi gastrointestinali</string>
+    <string name="rb_gi_0">0—Buon appetito</string>
+    <string name="rb_gi_1">1—Scarso appetito o nausea</string>
+    <string name="rb_gi_2">2—Nausea moderata o vomito</string>
+    <string name="rb_gi_3">3—Nausea e vomito gravi, invalidanti</string>
+    <string name="label_fatigue">Fatica e/o debolezza</string>
+    <string name="rb_fatigue_0">0—Non stanco o debole</string>
+    <string name="rb_fatigue_1">1—Lieve fatica/debolezza</string>
+    <string name="rb_fatigue_2">2—Fatica/debolezza moderata</string>
+    <string name="rb_fatigue_3">3—Fatica/debolezza grave, invalidante</string>
+    <string name="label_dizziness">Capogiro/stordimento</string>
+    <string name="rb_dizziness_0">0—Nessun capogiro/stordimento</string>
+    <string name="rb_dizziness_1">1—Lieve capogiro/stordimento</string>
+    <string name="rb_dizziness_2">2—Capogiro/stordimento moderato</string>
+    <string name="rb_dizziness_3">3—Capogiro/stordimento grave, invalidante</string>
+    <string name="label_mental_status">Cambiamento dello stato mentale</string>
+    <string name="rb_mental_0">0—Nessun cambiamento dello stato mentale</string>
+    <string name="rb_mental_1">1—Letargia/lassitudine</string>
+    <string name="rb_mental_2">2—Disorientato/confuso</string>
+    <string name="rb_mental_3">3—Stupore/semicoscienza</string>
+    <string name="rb_mental_4">4—Coma</string>
+    <string name="label_ataxia">Atassia (andatura tandem)</string>
+    <string name="rb_ataxia_0">0—Nessuna atassia</string>
+    <string name="rb_ataxia_1">1—Manovre per mantenere l\'equilibrio</string>
+    <string name="rb_ataxia_2">2—Esce dalla linea</string>
+    <string name="rb_ataxia_3">3—Cade</string>
+    <string name="rb_ataxia_4">4—Non riesce a stare in piedi</string>
+    <string name="label_peripheral_edema">Edema periferico</string>
+    <string name="rb_edema_0">0—Nessun edema periferico</string>
+    <string name="rb_edema_1">1—Edema periferico in una posizione</string>
+    <string name="rb_edema_2">2—Edema periferico in due o più posizioni</string>
+    <string name="label_activity_impact">Nel complesso, se ha avuto dei sintomi, come hanno influenzato la sua attività?</string>
+    <string name="rb_no_reduction">0—Nessuna riduzione dell\'attività</string>
+    <string name="rb_mild_reduction">1—Lieve riduzione dell\'attività</string>
+    <string name="rb_moderate_reduction">2—Moderata riduzione dell\'attività</string>
+    <string name="rb_severe_reduction">3—Grave riduzione dell\'attività (es. riposo a letto)</string>
+    <string name="self_report_score_format">Punteggio autocertificazione = %1$d su %2$d</string>
+    <string name="clinical_score_format">Punteggio clinico = %1$d su %2$d</string>
+    <string name="functional_score_format">Punteggio funzionale = %1$d su %2$d</string>
+    <string name="btn_reset_forms">Reimposta moduli</string>
+    <string name="dialog_reset_confirmation">Reimposta moduli?</string>
+    <string name="btn_reset">Reimposta</string>
+    <string name="btn_cancel">Annulla</string>
+    <string name="ams_none">Nessun AMS</string>
+    <string name="ams_mild">AMS lieve</string>
+    <string name="ams_moderate">AMS moderato</string>
+    <string name="ams_severe">AMS grave</string>
+</resources>
