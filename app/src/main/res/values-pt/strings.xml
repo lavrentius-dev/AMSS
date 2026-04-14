@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">AUTO-RELATO</string>
+    <string name="tab_clinical">CLÍNICO</string>
+    <string name="tab_functional">FUNCIONAL</string>
+    <string name="label_headache">Dor de cabeça</string>
+    <string name="rb_headache_0">0—Nenhuma</string>
+    <string name="rb_headache_1">1—Dor de cabeça leve</string>
+    <string name="rb_headache_2">2—Dor de cabeça moderada</string>
+    <string name="rb_headache_3">3—Dor de cabeça severa, incapacitante</string>
+    <string name="label_gi_symptoms">Sintomas gastrointestinais</string>
+    <string name="rb_gi_0">0—Bom apetite</string>
+    <string name="rb_gi_1">1—Pouco apetite ou náuseas</string>
+    <string name="rb_gi_2">2—Náusea moderada ou vómitos</string>
+    <string name="rb_gi_3">3—Náusea e vómitos severos, incapacitantes</string>
+    <string name="label_fatigue">Fadiga e/ou fraqueza</string>
+    <string name="rb_fatigue_0">0—Nem cansado nem fraco</string>
+    <string name="rb_fatigue_1">1—Fadiga/fraqueza leve</string>
+    <string name="rb_fatigue_2">2—Fadiga/fraqueza moderada</string>
+    <string name="rb_fatigue_3">3—Fadiga/fraqueza severa, incapacitante</string>
+    <string name="label_dizziness">Tontura/vertigem</string>
+    <string name="rb_dizziness_0">0—Sem tontura/vertigem</string>
+    <string name="rb_dizziness_1">1—Tontura/vertigem leve</string>
+    <string name="rb_dizziness_2">2—Tontura/vertigem moderada</string>
+    <string name="rb_dizziness_3">3—Tontura/vertigem severa, incapacitante</string>
+    <string name="label_mental_status">Alteração no estado mental</string>
+    <string name="rb_mental_0">0—Sem alteração no estado mental</string>
+    <string name="rb_mental_1">1—Letargia/lassidão</string>
+    <string name="rb_mental_2">2—Desorientado/confuso</string>
+    <string name="rb_mental_3">3—Estupor/semiconsciência</string>
+    <string name="rb_mental_4">4—Coma</string>
+    <string name="label_ataxia">Ataxia (marcha em tandem)</string>
+    <string name="rb_ataxia_0">0—Sem ataxia</string>
+    <string name="rb_ataxia_1">1—Manobras para manter o equilíbrio</string>
+    <string name="rb_ataxia_2">2—Sai da linha</string>
+    <string name="rb_ataxia_3">3—Cai</string>
+    <string name="rb_ataxia_4">4—Não consegue ficar de pé</string>
+    <string name="label_peripheral_edema">Edema periférico</string>
+    <string name="rb_edema_0">0—Sem edema periférico</string>
+    <string name="rb_edema_1">1—Edema periférico num local</string>
+    <string name="rb_edema_2">2—Edema periférico em dois ou mais locais</string>
+    <string name="label_activity_impact">No geral, se teve algum sintoma, como é que eles afetaram a sua atividade?</string>
+    <string name="rb_no_reduction">0—Sem redução da atividade</string>
+    <string name="rb_mild_reduction">1—Redução leve da atividade</string>
+    <string name="rb_moderate_reduction">2—Redução moderada da atividade</string>
+    <string name="rb_severe_reduction">3—Redução severa da atividade (ex: repouso na cama)</string>
+    <string name="self_report_score_format">Pontuação auto-relato = %1$d de %2$d</string>
+    <string name="clinical_score_format">Pontuação clínica = %1$d de %2$d</string>
+    <string name="functional_score_format">Pontuação funcional = %1$d de %2$d</string>
+    <string name="btn_reset_forms">Repor formulários</string>
+    <string name="dialog_reset_confirmation">Repor formulários?</string>
+    <string name="btn_reset">Repor</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="ams_none">Sem Doença de Montanha</string>
+    <string name="ams_mild">Doença de Montanha Leve</string>
+    <string name="ams_moderate">Doença de Montanha Moderada</string>
+    <string name="ams_severe">Doença de Montanha Severa</string>
+</resources>

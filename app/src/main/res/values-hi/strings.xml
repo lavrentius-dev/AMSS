@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">स्व-रिपोर्ट</string>
+    <string name="tab_clinical">नैदानिक</string>
+    <string name="tab_functional">कार्यात्मक</string>
+
+    <string name="label_headache">सिरदर्द</string>
+    <string name="rb_headache_0">0—बिल्कुल नहीं</string>
+    <string name="rb_headache_1">1—हल्का सिरदर्द</string>
+    <string name="rb_headache_2">2—मध्यम सिरदर्द</string>
+    <string name="rb_headache_3">3—गंभीर सिरदर्द, अक्षम करने वाला</string>
+
+    <string name="label_gi_symptoms">जठरांत्र संबंधी लक्षण</string>
+    <string name="rb_gi_0">0—अच्छी भूख</string>
+    <string name="rb_gi_1">1—कम भूख या मतली</string>
+    <string name="rb_gi_2">2—मध्यम मतली या उल्टी</string>
+    <string name="rb_gi_3">3—गंभीर मतली और उल्टी, अक्षम करने वाला</string>
+
+    <string name="label_fatigue">थकान और/या कमजोरी</string>
+    <string name="rb_fatigue_0">0—थका हुआ या कमजोर नहीं</string>
+    <string name="rb_fatigue_1">1—हल्की थकान/कमजोरी</string>
+    <string name="rb_fatigue_2">2—मध्यम थकान/कमजोरी</string>
+    <string name="rb_fatigue_3">3—गंभीर थकान/कमजोरी, अक्षम करने वाला</string>
+
+    <string name="label_dizziness">चक्कर आना/सिर घूमना</string>
+    <string name="rb_dizziness_0">0—कोई चक्कर नहीं</string>
+    <string name="rb_dizziness_1">1—हल्का चक्कर आना</string>
+    <string name="rb_dizziness_2">2—मध्यम चक्कर आना</string>
+    <string name="rb_dizziness_3">3—गंभीर चक्कर आना, अक्षम करने वाला</string>
+
+    <string name="label_mental_status">मानसिक स्थिति में परिवर्तन</string>
+    <string name="rb_mental_0">0—मानसिक स्थिति में कोई बदलाव नहीं</string>
+    <string name="rb_mental_1">1—सुस्ती/थकावट</string>
+    <string name="rb_mental_2">2—भ्रमित/उलझन में</string>
+    <string name="rb_mental_3">3—स्तब्धता/अर्धचेतन</string>
+    <string name="rb_mental_4">4—कोमा</string>
+
+    <string name="label_ataxia">गतिभंग (एड़ी से पैर की अंगुली तक चलना)</string>
+    <string name="rb_ataxia_0">0—कोई गतिभंग नहीं</string>
+    <string name="rb_ataxia_1">1—संतुलन बनाए रखने के लिए युद्धाभ्यास</string>
+    <string name="rb_ataxia_2">2—लाइन से बाहर कदम</string>
+    <string name="rb_ataxia_3">3—गिर जाना</string>
+    <string name="rb_ataxia_4">4—खड़े नहीं हो सकते</string>
+
+    <string name="label_peripheral_edema">परिधीय शोथ</string>
+    <string name="rb_edema_0">0—कोई परिधीय शोथ नहीं</string>
+    <string name="rb_edema_1">1—एक स्थान पर परिधीय शोथ</string>
+    <string name="rb_edema_2">2—दो या अधिक स्थानों पर परिधीय शोथ</string>
+
+    <string name="label_activity_impact">कुल मिलाकर, यदि आपको कोई लक्षण थे, तो उन्होंने आपकी गतिविधि को कैसे प्रभावित किया?</string>
+    <string name="rb_no_reduction">0—गतिविधि में कोई कमी नहीं</string>
+    <string name="rb_mild_reduction">1—गतिविधि में हल्की कमी</string>
+    <string name="rb_moderate_reduction">2—गतिविधि में मध्यम कमी</string>
+    <string name="rb_severe_reduction">3—गतिविधि में भारी कमी (जैसे बिस्तर पर आराम)</string>
+
+    <string name="self_report_score_format">स्व-रिपोर्ट स्कोर = %1$d में से %2$d</string>
+    <string name="clinical_score_format">नैदानिक स्कोर = %1$d में से %2$d</string>
+    <string name="functional_score_format">कार्यात्मक स्कोर = %1$d में से %2$d</string>
+
+    <string name="btn_reset_forms">फॉर्म रीसेट करें</string>
+    <string name="dialog_reset_confirmation">फॉर्म रीसेट करें?</string>
+    <string name="btn_reset">रीसेट</string>
+    <string name="btn_cancel">रद्द करें</string>
+
+    <string name="ams_none">कोई AMS नहीं</string>
+    <string name="ams_mild">हल्का AMS</string>
+    <string name="ams_moderate">मध्यम AMS</string>
+    <string name="ams_severe">गंभीर AMS</string>
+</resources>

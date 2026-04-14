@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">ÖNBEVALLÁS</string>
+    <string name="tab_clinical">KLINIKAI</string>
+    <string name="tab_functional">FUNKCIONÁLIS</string>
+    <string name="label_headache">Fejfájás</string>
+    <string name="rb_headache_0">0—Egyáltalán nem</string>
+    <string name="rb_headache_1">1—Enyhe fejfájás</string>
+    <string name="rb_headache_2">2—Mérsékelt fejfájás</string>
+    <string name="rb_headache_3">3—Erős fejfájás, cselekvőképtelen</string>
+    <string name="label_gi_symptoms">Gyomor-bélrendszeri tünetek</string>
+    <string name="rb_gi_0">0—Jó étvágy</string>
+    <string name="rb_gi_1">1—Rossz étvágy vagy hányinger</string>
+    <string name="rb_gi_2">2—Mérsékelt hányinger vagy hányás</string>
+    <string name="rb_gi_3">3—Súlyos hányinger és hányás, cselekvőképtelen</string>
+    <string name="label_fatigue">Fáradtság és/vagy gyengeség</string>
+    <string name="rb_fatigue_0">0—Nem fáradt vagy gyenge</string>
+    <string name="rb_fatigue_1">1—Enyhe fáradtság/gyengeség</string>
+    <string name="rb_fatigue_2">2—Mérsékelt fáradtság/gyengeség</string>
+    <string name="rb_fatigue_3">3—Súlyos fáradtság/gyengeség, cselekvőképtelen</string>
+    <string name="label_dizziness">Szédülés/bizonytalanság</string>
+    <string name="rb_dizziness_0">0—Nincs szédülés/bizonytalanság</string>
+    <string name="rb_dizziness_1">1—Enyhe szédülés/bizonytalanság</string>
+    <string name="rb_dizziness_2">2—Mérsékelt szédülés/bizonytalanság</string>
+    <string name="rb_dizziness_3">3—Súlyos szédülés/bizonytalanság, cselekvőképtelen</string>
+    <string name="label_mental_status">Mentális állapot megváltozása</string>
+    <string name="rb_mental_0">0—Nincs változás a mentális állapotban</string>
+    <string name="rb_mental_1">1—Letargia/fásultság</string>
+    <string name="rb_mental_2">2—Dezorientált/zavarodott</string>
+    <string name="rb_mental_3">3—Stupor/félöntudat</string>
+    <string name="rb_mental_4">4—Kóma</string>
+    <string name="label_ataxia">Ataxia (sarok-lábujj járás)</string>
+    <string name="rb_ataxia_0">0—Nincs ataxia</string>
+    <string name="rb_ataxia_1">1—Manőverek az egyensúly fenntartásához</string>
+    <string name="rb_ataxia_2">2—Kilép a vonalból</string>
+    <string name="rb_ataxia_3">3—Elesik</string>
+    <string name="rb_ataxia_4">4—Nem tud állni</string>
+    <string name="label_peripheral_edema">Perifériás ödéma</string>
+    <string name="rb_edema_0">0—Nincs perifériás ödéma</string>
+    <string name="rb_edema_1">1—Perifériás ödéma egy helyen</string>
+    <string name="rb_edema_2">2—Perifériás ödéma két vagy több helyen</string>
+    <string name="label_activity_impact">Összességében, ha voltak tünetei, hogyan befolyásolták tevékenységét?</string>
+    <string name="rb_no_reduction">0—Nincs csökkenés a tevékenységben</string>
+    <string name="rb_mild_reduction">1—Enyhe csökkenés a tevékenységben</string>
+    <string name="rb_moderate_reduction">2—Mérsékelt csökkenés a tevékenységben</string>
+    <string name="rb_severe_reduction">3—Súlyos csökkenés a tevékenységben (pl. ágynyugalom)</string>
+    <string name="self_report_score_format">Önbevallási pontszám = %1$d / %2$d</string>
+    <string name="clinical_score_format">Klinikai pontszám = %1$d / %2$d</string>
+    <string name="functional_score_format">Funkcionális pontszám = %1$d / %2$d</string>
+    <string name="btn_reset_forms">Űrlapok alaphelyzetbe állítása</string>
+    <string name="dialog_reset_confirmation">Űrlapok alaphelyzetbe állítása?</string>
+    <string name="btn_reset">Alaphelyzet</string>
+    <string name="btn_cancel">Mégse</string>
+    <string name="ams_none">Nincs AMS</string>
+    <string name="ams_mild">Enyhe AMS</string>
+    <string name="ams_moderate">Mérsékelt AMS</string>
+    <string name="ams_severe">Súlyos AMS</string>
+</resources>

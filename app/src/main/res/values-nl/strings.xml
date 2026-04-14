@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">ZELF-RAPPORT</string>
+    <string name="tab_clinical">KLINISCH</string>
+    <string name="tab_functional">FUNCTIONEEL</string>
+    <string name="label_headache">Hoofdpijn</string>
+    <string name="rb_headache_0">0—Helemaal niet</string>
+    <string name="rb_headache_1">1—Milde hoofdpijn</string>
+    <string name="rb_headache_2">2—Matige hoofdpijn</string>
+    <string name="rb_headache_3">3—Ernstige hoofdpijn, invaliderend</string>
+    <string name="label_gi_symptoms">Maag-darmklachten</string>
+    <string name="rb_gi_0">0—Goede eetlust</string>
+    <string name="rb_gi_1">1—Slechte eetlust of misselijkheid</string>
+    <string name="rb_gi_2">2—Matige misselijkheid of braken</string>
+    <string name="rb_gi_3">3—Ernstige misselijkheid en braken, invaliderend</string>
+    <string name="label_fatigue">Vermoeidheid en/of zwakte</string>
+    <string name="rb_fatigue_0">0—Niet moe of zwak</string>
+    <string name="rb_fatigue_1">1—Milde vermoeidheid/zwakte</string>
+    <string name="rb_fatigue_2">2—Matige vermoeidheid/zwakte</string>
+    <string name="rb_fatigue_3">3—Ernstige vermoeidheid/zwakte, invaliderend</string>
+    <string name="label_dizziness">Duizeligheid/licht in het hoofd</string>
+    <string name="rb_dizziness_0">0—Geen duizeligheid/licht in het hoofd</string>
+    <string name="rb_dizziness_1">1—Milde duizeligheid/licht in het hoofd</string>
+    <string name="rb_dizziness_2">2—Matige duizeligheid/licht in het hoofd</string>
+    <string name="rb_dizziness_3">3—Ernstige duizeligheid/licht in het hoofd, invaliderend</string>
+    <string name="label_mental_status">Verandering in mentale status</string>
+    <string name="rb_mental_0">0—Geen verandering in mentale status</string>
+    <string name="rb_mental_1">1—Lethargie/matheid</string>
+    <string name="rb_mental_2">2—Gedesoriënteerd/verward</string>
+    <string name="rb_mental_3">3—Stupor/halfbewustzijn</string>
+    <string name="rb_mental_4">4—Coma</string>
+    <string name="label_ataxia">Ataxie (hiel-op-teen lopen)</string>
+    <string name="rb_ataxia_0">0—Geen ataxie</string>
+    <string name="rb_ataxia_1">1—Manoeuvres om evenwicht te bewaren</string>
+    <string name="rb_ataxia_2">2—Stapt buiten de lijn</string>
+    <string name="rb_ataxia_3">3—Vallen</string>
+    <string name="rb_ataxia_4">4—Kan niet staan</string>
+    <string name="label_peripheral_edema">Perifeer oedeem</string>
+    <string name="rb_edema_0">0—Geen perifeer oedeem</string>
+    <string name="rb_edema_1">1—Perifeer oedeem op één locatie</string>
+    <string name="rb_edema_2">2—Perifeer oedeem op twee of meer locaties</string>
+    <string name="label_activity_impact">Over het algemeen, als u symptomen had, hoe beïnvloedden deze uw activiteit?</string>
+    <string name="rb_no_reduction">0—Geen vermindering van activiteit</string>
+    <string name="rb_mild_reduction">1—Milde vermindering van activiteit</string>
+    <string name="rb_moderate_reduction">2—Matige vermindering van activiteit</string>
+    <string name="rb_severe_reduction">3—Ernstige vermindering van activiteit (bijv. bedrust)</string>
+    <string name="self_report_score_format">Zelf-rapport score = %1$d van %2$d</string>
+    <string name="clinical_score_format">Klinische score = %1$d van %2$d</string>
+    <string name="functional_score_format">Functionele score = %1$d van %2$d</string>
+    <string name="btn_reset_forms">Formulieren resetten</string>
+    <string name="dialog_reset_confirmation">Formulieren resetten?</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_cancel">Annuleren</string>
+    <string name="ams_none">Geen AMS</string>
+    <string name="ams_mild">Milde AMS</string>
+    <string name="ams_moderate">Matige AMS</string>
+    <string name="ams_severe">Ernstige AMS</string>
+</resources>

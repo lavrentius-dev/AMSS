@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">SELF-REPORT</string>
+    <string name="tab_clinical">CLINICAL</string>
+    <string name="tab_functional">FUNCTIONAL</string>
+
+    <!-- Self-Report Section 1: Headache -->
+    <string name="label_headache">Headache</string>
+    <string name="rb_headache_0">0—None at all</string>
+    <string name="rb_headache_1">1—A mild headache</string>
+    <string name="rb_headache_2">2—Moderate headache</string>
+    <string name="rb_headache_3">3—Severe headache, incapacitating</string>
+
+    <!-- Self-Report Section 2: Gastrointestinal symptoms -->
+    <string name="label_gi_symptoms">Gastrointestinal symptoms</string>
+    <string name="rb_gi_0">0—Good appetite</string>
+    <string name="rb_gi_1">1—Poor appetite or nausea</string>
+    <string name="rb_gi_2">2—Moderate nausea or vomiting</string>
+    <string name="rb_gi_3">3—Severe nausea and vomiting, incapacitating</string>
+
+    <!-- Self-Report Section 3: Fatigue and/or weakness -->
+    <string name="label_fatigue">Fatigue and/or weakness</string>
+    <string name="rb_fatigue_0">0—Not tired or weak</string>
+    <string name="rb_fatigue_1">1—Mild fatigue/weakness</string>
+    <string name="rb_fatigue_2">2—Moderate fatigue/weakness</string>
+    <string name="rb_fatigue_3">3—Severe fatigue/weakness, incapacitating</string>
+
+    <!-- Self-Report Section 4: Dizziness/light-headedness -->
+    <string name="label_dizziness">Dizziness/light-headedness</string>
+    <string name="rb_dizziness_0">0—No dizziness/light-headedness</string>
+    <string name="rb_dizziness_1">1—Mild dizziness/light-headedness</string>
+    <string name="rb_dizziness_2">2—Moderate dizziness/light-headedness</string>
+    <string name="rb_dizziness_3">3—Severe dizziness/light-headedness, incapacitating</string>
+
+    <!-- Clinical Section -->
+    <string name="label_mental_status">Change in mental status</string>
+    <string name="rb_mental_0">0—No change in mental status</string>
+    <string name="rb_mental_1">1—Lethargy/lassitude</string>
+    <string name="rb_mental_2">2—Disoriented/confused</string>
+    <string name="rb_mental_3">3—Stupor/semiconsciousness</string>
+    <string name="rb_mental_4">4—Coma</string>
+
+    <string name="label_ataxia">Ataxia (heel to toe walking)</string>
+    <string name="rb_ataxia_0">0—No ataxia</string>
+    <string name="rb_ataxia_1">1—Maneuvers to maintain balance</string>
+    <string name="rb_ataxia_2">2—Steps off line</string>
+    <string name="rb_ataxia_3">3—Falls down</string>
+    <string name="rb_ataxia_4">4—Can\'t stand</string>
+
+    <string name="label_peripheral_edema">Peripheral edema</string>
+    <string name="rb_edema_0">0—No peripheral edema</string>
+    <string name="rb_edema_1">1—Peripheral edema at one location</string>
+    <string name="rb_edema_2">2—Peripheral edema at two or more locations</string>
+
+    <!-- Functional Section -->
+    <string name="label_activity_impact">Overall, if you had any symptoms, how did they affect your activity?</string>
+    <string name="rb_no_reduction">0—No reduction in activity</string>
+    <string name="rb_mild_reduction">1—Mild reduction in activity</string>
+    <string name="rb_moderate_reduction">2—Moderate reduction in activity</string>
+    <string name="rb_severe_reduction">3—Severe reduction in activity (e.g. bedrest)</string>
+
+    <!-- Scores and Dialogs -->
+    <string name="self_report_score_format">Self-report score = %1$d of %2$d</string>
+    <string name="clinical_score_format">Clinical score = %1$d of %2$d</string>
+    <string name="functional_score_format">Functional score = %1$d of %2$d</string>
+
+    <string name="btn_reset_forms">Reset forms</string>
+    <string name="dialog_reset_confirmation">Reset forms?</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="ams_none">No AMS</string>
+    <string name="ams_mild">Mild AMS</string>
+    <string name="ams_moderate">Moderate AMS</string>
+    <string name="ams_severe">Severe AMS</string>
+</resources>

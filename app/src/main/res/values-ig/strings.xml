@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">NKỌWA ONWE</string>
+    <string name="tab_clinical">NKE ỤLỌ ỌGWỤ</string>
+    <string name="tab_functional">ỌRỤ ARA</string>
+
+    <string name="label_headache">Isi ọwụwa</string>
+    <string name="rb_headache_0">0—Ọ dịghị ma ọlị</string>
+    <string name="rb_headache_1">1—Isi ọwụwa dị nwayọọ</string>
+    <string name="rb_headache_2">2—Isi ọwụwa dị n\'etiti</string>
+    <string name="rb_headache_3">3—Isi ọwụwa siri ike, nke na-eme ka mmadụ ghara ịrụ ọrụ</string>
+
+    <string name="label_gi_symptoms">Mgbaàmà nke afọ</string>
+    <string name="rb_gi_0">0—Agụụ nri dị mma</string>
+    <string name="rb_gi_1">1—Agụụ nri adịghị mma ma ọ bụ ọgbụgbọ</string>
+    <string name="rb_gi_2">2—Ọgbụgbọ dị n\'etiti ma ọ bụ ịgbụ agbụ</string>
+    <string name="rb_gi_3">3—Ọgbụgbọ siri ike na ịgbụ agbụ, nke na-eme ka mmadụ ghara ịrụ ọrụ</string>
+
+    <string name="label_fatigue">I Ike ọgwụgwụ na/ma ọ bụ adịghị ike</string>
+    <string name="rb_fatigue_0">0—Ike adịghị agwụ m ma ọ bụ adịghị m ike</string>
+    <string name="rb_fatigue_1">1—Ike ọgwụgwụ/adịghị ike dị nwayọọ</string>
+    <string name="rb_fatigue_2">2—Ike ọgwụgwụ/adịghị ike dị n\'etiti</string>
+    <string name="rb_fatigue_3">3—Ike ọgwụgwụ/adịghị ike siri ike, nke na-eme ka mmadụ ghara ịrụ ọrụ</string>
+
+    <string name="label_dizziness">Isi ntụgharị/isi mfe</string>
+    <string name="rb_dizziness_0">0—Ọ dịghị isi ntụgharị/isi mfe</string>
+    <string name="rb_dizziness_1">1—Isi ntụgharị/isi mfe dị nwayọọ</string>
+    <string name="rb_dizziness_2">2—Isi ntụgharị/isi mfe dị n\'etiti</string>
+    <string name="rb_dizziness_3">3—Isi ntụgharị/isi mfe siri ike, nke na-eme ka mmadụ ghara ịrụ ọrụ</string>
+
+    <string name="label_mental_status">Mgbanwe n\'ọnọdụ uche</string>
+    <string name="rb_mental_0">0—Mgbanwe ọ bụla adịghị n\'ọnọdụ uche</string>
+    <string name="rb_mental_1">1—Ike ọgwụgwụ uche/nkụda mmụọ</string>
+    <string name="rb_mental_2">2—Nwere mgbagwoju anya</string>
+    <string name="rb_mental_3">3—Amaghị onwe onye nke ọma</string>
+    <string name="rb_mental_4">4—Ọfụma (Koma)</string>
+
+    <string name="label_ataxia">Ataxia (ije site n\'ikpere ụkwụ ruo na mkpịsị ụkwụ)</string>
+    <string name="rb_ataxia_0">0—Ataxia adịghị</string>
+    <string name="rb_ataxia_1">1—Mgbalị ijide onwe ka ọ ghara ịda</string>
+    <string name="rb_ataxia_2">2—Ịpụ n\'ahịrị ije</string>
+    <string name="rb_ataxia_3">3—Ịda ada</string>
+    <string name="rb_ataxia_4">4—Enweghị ike iguzo ọtọ</string>
+
+    <string name="label_peripheral_edema">Ọzịza ahụ (Peripheral edema)</string>
+    <string name="rb_edema_0">0—Ọzịza ahụ adịghị</string>
+    <string name="rb_edema_1">1—Ọzịza ahụ n\'otu ebe</string>
+    <string name="rb_edema_2">2—Ọzịza ahụ n\'ebe abụọ ma ọ bụ karịa</string>
+
+    <string name="label_activity_impact">N\'ozuzu, ọ bụrụ na ị nwere mgbaàmà ọ bụla, kedu ka ha siri metụta ọrụ gị?</string>
+    <string name="rb_no_reduction">0—Mbelata ọrụ ọ bụla adịghị</string>
+    <string name="rb_mild_reduction">1—Mbelata ọrụ dị nwayọọ</string>
+    <string name="rb_moderate_reduction">2—Mbelata ọrụ dị n\'etiti</string>
+    <string name="rb_severe_reduction">3—Mbelata ọrụ siri ike (dịka ọmụmaatụ, ịnọ n\'àkwà izu ike)</string>
+
+    <string name="self_report_score_format">Akara nkọwa onwe = %1$d n\'ime %2$d</string>
+    <string name="clinical_score_format">Akara ụlọ ọgwụ = %1$d n\'ime %2$d</string>
+    <string name="functional_score_format">Akara ọrụ ara = %1$d n\'ime %2$d</string>
+
+    <string name="btn_reset_forms">Togharịa fọm</string>
+    <string name="dialog_reset_confirmation">Togharịa fọm?</string>
+    <string name="btn_reset">Togharịa</string>
+    <string name="btn_cancel">Hapụ ya</string>
+
+    <string name="ams_none">Enweghị AMS</string>
+    <string name="ams_mild">AMS dị nwayọọ</string>
+    <string name="ams_moderate">AMS dị n\'etiti</string>
+    <string name="ams_severe">AMS siri ike</string>
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/functional_scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".ui.functional.FunctionalFragment">
+
+    <LinearLayout
+        android:id="@+id/functional_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/tv_activity_impact_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Overall, if you had any symptoms, how did they affect your activity?"
+            android:textStyle="bold"
+            android:textAppearance="?attr/textAppearanceBody1"
+            android:layout_marginBottom="16dp" />
+
+        <RadioGroup
+            android:id="@+id/rg_activity_reduction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <RadioButton
+                android:id="@+id/rb_no_reduction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="0—No reduction in activity"
+                android:checked="true"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_mild_reduction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1—Mild reduction in activity"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_moderate_reduction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2—Moderate reduction in activity"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+            <RadioButton
+                android:id="@+id/rb_severe_reduction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3—Severe reduction in activity (e.g. bedrest)"
+                android:textAppearance="?attr/textAppearanceBody2" />
+
+        </RadioGroup>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+
+            <View
+                android:id="@+id/divider"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:background="@color/antique_white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.8" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/tv_functional_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Functional score = 0 of 3"
+            android:textColor="@color/dark_orange"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">SJÄLVRAPPORT</string>
+    <string name="tab_clinical">KLINISK</string>
+    <string name="tab_functional">FUNKTIONELL</string>
+    <string name="label_headache">Huvudvärk</string>
+    <string name="rb_headache_0">0—Inte alls</string>
+    <string name="rb_headache_1">1—Mild huvudvärk</string>
+    <string name="rb_headache_2">2—Måttlig huvudvärk</string>
+    <string name="rb_headache_3">3—Svår huvudvärk, arbetsoförmögen</string>
+    <string name="label_gi_symptoms">Gastrointestinala symtom</string>
+    <string name="rb_gi_0">0—God aptit</string>
+    <string name="rb_gi_1">1—Dålig aptit eller illamående</string>
+    <string name="rb_gi_2">2—Måttligt illamående eller kräkningar</string>
+    <string name="rb_gi_3">3—Svårt illamående och kräkningar, arbetsoförmögen</string>
+    <string name="label_fatigue">Trötthet och/eller svaghet</string>
+    <string name="rb_fatigue_0">0—Inte trött eller svag</string>
+    <string name="rb_fatigue_1">1—Mild trötthet/svaghet</string>
+    <string name="rb_fatigue_2">2—Måttlig trötthet/svaghet</string>
+    <string name="rb_fatigue_3">3—Svår trötthet/svaghet, arbetsoförmögen</string>
+    <string name="label_dizziness">Yrsel/ostadighetskänsla</string>
+    <string name="rb_dizziness_0">0—Ingen yrsel/ostadighetskänsla</string>
+    <string name="rb_dizziness_1">1—Mild yrsel/ostadighetskänsla</string>
+    <string name="rb_dizziness_2">2—Måttlig yrsel/ostadighetskänsla</string>
+    <string name="rb_dizziness_3">3—Svår yrsel/ostadighetskänsla, arbetsoförmögen</string>
+    <string name="label_mental_status">Förändring av mentalt tillstånd</string>
+    <string name="rb_mental_0">0—Ingen förändring av mentalt tillstånd</string>
+    <string name="rb_mental_1">1—Letargi/matthet</string>
+    <string name="rb_mental_2">2—Desorienterad/förvirrad</string>
+    <string name="rb_mental_3">3—Stupor/halvmedvetslöshet</string>
+    <string name="rb_mental_4">4—Koma</string>
+    <string name="label_ataxia">Ataxi (häl-till-tå-gång)</string>
+    <string name="rb_ataxia_0">0—Ingen ataxi</string>
+    <string name="rb_ataxia_1">1—Manövrar för att bibehålla balansen</string>
+    <string name="rb_ataxia_2">2—Kliver utanför linjen</string>
+    <string name="rb_ataxia_3">3—Faller</string>
+    <string name="rb_ataxia_4">4—Kan inte stå</string>
+    <string name="label_peripheral_edema">Perifera ödem</string>
+    <string name="rb_edema_0">0—Inga perifera ödem</string>
+    <string name="rb_edema_1">1—Perifert ödem på ett ställe</string>
+    <string name="rb_edema_2">2—Perifera ödem på två eller flera ställen</string>
+    <string name="label_activity_impact">Sammantaget, om du hade några symtom, hur påverkade de din aktivitet?</string>
+    <string name="rb_no_reduction">0—Ingen minskning av aktiviteten</string>
+    <string name="rb_mild_reduction">1—Mild minskning av aktiviteten</string>
+    <string name="rb_moderate_reduction">2—Måttlig minskning av aktiviteten</string>
+    <string name="rb_severe_reduction">3—Svår minskning av aktiviteten (t.ex. sängläge)</string>
+    <string name="self_report_score_format">Självrapportpoäng = %1$d av %2$d</string>
+    <string name="clinical_score_format">Klinisk poäng = %1$d av %2$d</string>
+    <string name="functional_score_format">Funktionell poäng = %1$d av %2$d</string>
+    <string name="btn_reset_forms">Återställ formulär</string>
+    <string name="dialog_reset_confirmation">Återställ formulär?</string>
+    <string name="btn_reset">Återställ</string>
+    <string name="btn_cancel">Avbryt</string>
+    <string name="ams_none">Ingen AMS</string>
+    <string name="ams_mild">Mild AMS</string>
+    <string name="ams_moderate">Måttlig AMS</string>
+    <string name="ams_severe">Svår AMS</string>
+</resources>

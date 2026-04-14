@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">SEBEHODNOCENÍ</string>
+    <string name="tab_clinical">KLINICKÉ</string>
+    <string name="tab_functional">FUNKČNÍ</string>
+    <string name="label_headache">Bolest hlavy</string>
+    <string name="rb_headache_0">0—Vůbec žádná</string>
+    <string name="rb_headache_1">1—Mírná bolest hlavy</string>
+    <string name="rb_headache_2">2—Středně silná bolest hlavy</string>
+    <string name="rb_headache_3">3—Silná bolest hlavy, ochromující</string>
+    <string name="label_gi_symptoms">Gastrointestinální příznaky</string>
+    <string name="rb_gi_0">0—Dobrá chuť k jídlu</string>
+    <string name="rb_gi_1">1—Špatná chuť k jídlu nebo nevolnost</string>
+    <string name="rb_gi_2">2—Střední nevolnost nebo zvracení</string>
+    <string name="rb_gi_3">3—Silná nevolnost a zvracení, ochromující</string>
+    <string name="label_fatigue">Únava a/nebo slabost</string>
+    <string name="rb_fatigue_0">0—Bez únavy nebo slabosti</string>
+    <string name="rb_fatigue_1">1—Mírná únava/slabost</string>
+    <string name="rb_fatigue_2">2—Střední únava/slabost</string>
+    <string name="rb_fatigue_3">3—Silná únava/slabost, ochromující</string>
+    <string name="label_dizziness">Závratě/točení hlavy</string>
+    <string name="rb_dizziness_0">0—Žádné závratě/točení hlavy</string>
+    <string name="rb_dizziness_1">1—Mírné závratě/točení hlavy</string>
+    <string name="rb_dizziness_2">2—Střední závratě/točení hlavy</string>
+    <string name="rb_dizziness_3">3—Silné závratě/točení hlavy, ochromující</string>
+    <string name="label_mental_status">Změna psychického stavu</string>
+    <string name="rb_mental_0">0—Žádná změna psychického stavu</string>
+    <string name="rb_mental_1">1—Letargie/malátnost</string>
+    <string name="rb_mental_2">2—Dezorientovaný/zmatený</string>
+    <string name="rb_mental_3">3—Stupor/polovědomí</string>
+    <string name="rb_mental_4">4—Kóma</string>
+    <string name="label_ataxia">Ataxie (chůze pata-špička)</string>
+    <string name="rb_ataxia_0">0—Bez ataxie</string>
+    <string name="rb_ataxia_1">1—Manévry k udržení rovnováhy</string>
+    <string name="rb_ataxia_2">2—Vykročení z linie</string>
+    <string name="rb_ataxia_3">3—Pád</string>
+    <string name="rb_ataxia_4">4—Nemůže stát</string>
+    <string name="label_peripheral_edema">Periferní edém</string>
+    <string name="rb_edema_0">0—Žádný periferní edém</string>
+    <string name="rb_edema_1">1—Periferní edém na jednom místě</string>
+    <string name="rb_edema_2">2—Periferní edém na dvou nebo více místech</string>
+    <string name="label_activity_impact">Celkově, pokud jste měli nějaké příznaky, jak ovlivnily vaši aktivitu?</string>
+    <string name="rb_no_reduction">0—Žádné snížení aktivity</string>
+    <string name="rb_mild_reduction">1—Mírné snížení aktivity</string>
+    <string name="rb_moderate_reduction">2—Střední snížení aktivity</string>
+    <string name="rb_severe_reduction">3—Silné snížení aktivity (např. klid na lůžku)</string>
+    <string name="self_report_score_format">Skóre sebehodnocení = %1$d z %2$d</string>
+    <string name="clinical_score_format">Klinické skóre = %1$d z %2$d</string>
+    <string name="functional_score_format">Funkční skóre = %1$d z %2$d</string>
+    <string name="btn_reset_forms">Resetovat formuláře</string>
+    <string name="dialog_reset_confirmation">Resetovat formuláře?</string>
+    <string name="btn_reset">Resetovat</string>
+    <string name="btn_cancel">Zrušit</string>
+    <string name="ams_none">Žádná AHN</string>
+    <string name="ams_mild">Mírná AHN</string>
+    <string name="ams_moderate">Střední AHN</string>
+    <string name="ams_severe">Těžká AHN</string>
+</resources>

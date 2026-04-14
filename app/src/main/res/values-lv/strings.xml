@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">PAŠZIŅOJUMS</string>
+    <string name="tab_clinical">KLĪNISKAIS</string>
+    <string name="tab_functional">FUNKCIONĀLAIS</string>
+    <string name="label_headache">Galvassāpes</string>
+    <string name="rb_headache_0">0—Nav nemaz</string>
+    <string name="rb_headache_1">1—Vieglas galvassāpes</string>
+    <string name="rb_headache_2">2—Mērenas galvassāpes</string>
+    <string name="rb_headache_3">3—Stipras galvassāpes, darbnespēja</string>
+    <string name="label_gi_symptoms">Gastrointestinālie simptomi</string>
+    <string name="rb_gi_0">0—Laba apetīte</string>
+    <string name="rb_gi_1">1—Slikta apetīte vai slikta dūša</string>
+    <string name="rb_gi_2">2—Mērena slikta dūša vai vemšana</string>
+    <string name="rb_gi_3">3—Stipra slikta dūša un vemšana, darbnespēja</string>
+    <string name="label_fatigue">Nogurums un/vai vājums</string>
+    <string name="rb_fatigue_0">0—Nav nogurums vai vājums</string>
+    <string name="rb_fatigue_1">1—Viegls nogurums/vājums</string>
+    <string name="rb_fatigue_2">2—Mērens nogurums/vājums</string>
+    <string name="rb_fatigue_3">3—Stiprs nogurums/vājums, darbnespēja</string>
+    <string name="label_dizziness">Reibonis/viegluma sajūta galvā</string>
+    <string name="rb_dizziness_0">0—Nav reibonis/viegluma sajūta galvā</string>
+    <string name="rb_dizziness_1">1—Viegls reibonis/viegluma sajūta galvā</string>
+    <string name="rb_dizziness_2">2—Mērens reibonis/viegluma sajūta galvā</string>
+    <string name="rb_dizziness_3">3—Stiprs reibonis/viegluma sajūta galvā, darbnespēja</string>
+    <string name="label_mental_status">Garīgā stāvokļa izmaiņas</string>
+    <string name="rb_mental_0">0—Nav izmaiņu garīgajā stāvoklī</string>
+    <string name="rb_mental_1">1—Letarģija/gurdenums</string>
+    <string name="rb_mental_2">2—Dezorientēts/sajucis</string>
+    <string name="rb_mental_3">3—Stupors/pusapziņa</string>
+    <string name="rb_mental_4">4—Koma</string>
+    <string name="label_ataxia">Ataksija (iešana no papēža uz pirkstgalu)</string>
+    <string name="rb_ataxia_0">0—Nav ataksijas</string>
+    <string name="rb_ataxia_1">1—Manevri līdzsvara saglabāšanai</string>
+    <string name="rb_ataxia_2">2—Solis nost no līnijas</string>
+    <string name="rb_ataxia_3">3—Krišana</string>
+    <string name="rb_ataxia_4">4—Nevar nostāvēt</string>
+    <string name="label_peripheral_edema">Perifēra tūska</string>
+    <string name="rb_edema_0">0—Nav perifēras tūskas</string>
+    <string name="rb_edema_1">1—Perifēra tūska vienā vietā</string>
+    <string name="rb_edema_2">2—Perifēra tūska divās vai vairāk vietās</string>
+    <string name="label_activity_impact">Kopumā, ja jums bija kādi simptomi, kā tie ietekmēja jūsu aktivitāti?</string>
+    <string name="rb_no_reduction">0—Nav aktivitātes samazināšanās</string>
+    <string name="rb_mild_reduction">1—Viegla aktivitātes samazināšanās</string>
+    <string name="rb_moderate_reduction">2—Mērena aktivitātes samazināšanās</string>
+    <string name="rb_severe_reduction">3—Izteikta aktivitātes samazināšanās (piem., gultas režīms)</string>
+    <string name="self_report_score_format">Pašziņojuma rezultāts = %1$d no %2$d</string>
+    <string name="clinical_score_format">Klīniskais rezultāts = %1$d no %2$d</string>
+    <string name="functional_score_format">Funkcionālais rezultāts = %1$d no %2$d</string>
+    <string name="btn_reset_forms">Atiestatīt veidlapas</string>
+    <string name="dialog_reset_confirmation">Atiestatīt veidlapas?</string>
+    <string name="btn_reset">Atiestatīt</string>
+    <string name="btn_cancel">Atcelt</string>
+    <string name="ams_none">Nav AKS</string>
+    <string name="ams_mild">Viegla AKS</string>
+    <string name="ams_moderate">Mērena AKS</string>
+    <string name="ams_severe">Smaga AKS</string>
+</resources>

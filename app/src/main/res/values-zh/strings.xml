@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">自我报告</string>
+    <string name="tab_clinical">临床评估</string>
+    <string name="tab_functional">功能评估</string>
+
+    <string name="label_headache">头痛</string>
+    <string name="rb_headache_0">0—完全没有</string>
+    <string name="rb_headache_1">1—轻微头痛</string>
+    <string name="rb_headache_2">2—中度头痛</string>
+    <string name="rb_headache_3">3—严重头痛，失去活动能力</string>
+
+    <string name="label_gi_symptoms">胃肠道症状</string>
+    <string name="rb_gi_0">0—食欲良好</string>
+    <string name="rb_gi_1">1—食欲不振或恶心</string>
+    <string name="rb_gi_2">2—中度恶心或呕吐</string>
+    <string name="rb_gi_3">3—严重恶心呕吐，失去活动能力</string>
+
+    <string name="label_fatigue">疲劳和/或虚弱</string>
+    <string name="rb_fatigue_0">0—不疲劳或虚弱</string>
+    <string name="rb_fatigue_1">1—轻微疲劳/虚弱</string>
+    <string name="rb_fatigue_2">2—中度疲劳/虚弱</string>
+    <string name="rb_fatigue_3">3—严重疲劳/虚弱，失去活动能力</string>
+
+    <string name="label_dizziness">头晕/目眩</string>
+    <string name="rb_dizziness_0">0—没有头晕/目眩</string>
+    <string name="rb_dizziness_1">1—轻微头晕/目眩</string>
+    <string name="rb_dizziness_2">2—中度头晕/目眩</string>
+    <string name="rb_dizziness_3">3—严重头晕/目眩，失去活动能力</string>
+
+    <string name="label_mental_status">精神状态变化</string>
+    <string name="rb_mental_0">0—精神状态无变化</string>
+    <string name="rb_mental_1">1—嗜睡/倦怠</string>
+    <string name="rb_mental_2">2—定向力障碍/混乱</string>
+    <string name="rb_mental_3">3—木僵/半昏迷</string>
+    <string name="rb_mental_4">4—昏迷</string>
+
+    <string name="label_ataxia">共济失调（跟趾行走）</string>
+    <string name="rb_ataxia_0">0—无共济失调</string>
+    <string name="rb_ataxia_1">1—为保持平衡而采取的动作</string>
+    <string name="rb_ataxia_2">2—偏离直线</string>
+    <string name="rb_ataxia_3">3—摔倒</string>
+    <string name="rb_ataxia_4">4—无法站立</string>
+
+    <string name="label_peripheral_edema">周围性水肿</string>
+    <string name="rb_edema_0">0—无周围性水肿</string>
+    <string name="rb_edema_1">1—一处周围性水肿</string>
+    <string name="rb_edema_2">2—两处或多处周围性水肿</string>
+
+    <string name="label_activity_impact">总的来说，如果你有任何症状，它们如何影响你的活动？</string>
+    <string name="rb_no_reduction">0—活动没有减少</string>
+    <string name="rb_mild_reduction">1—活动轻微减少</string>
+    <string name="rb_moderate_reduction">2—活动中度减少</string>
+    <string name="rb_severe_reduction">3—活动严重减少（如卧床休息）</string>
+
+    <string name="self_report_score_format">自我报告得分 = %1$d / %2$d</string>
+    <string name="clinical_score_format">临床得分 = %1$d / %2$d</string>
+    <string name="functional_score_format">功能得分 = %1$d / %2$d</string>
+
+    <string name="btn_reset_forms">重置表格</string>
+    <string name="dialog_reset_confirmation">重置表格？</string>
+    <string name="btn_reset">重置</string>
+    <string name="btn_cancel">取消</string>
+
+    <string name="ams_none">无 AMS</string>
+    <string name="ams_mild">轻度 AMS</string>
+    <string name="ams_moderate">中度 AMS</string>
+    <string name="ams_severe">重度 AMS</string>
+</resources>

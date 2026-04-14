@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">自己報告</string>
+    <string name="tab_clinical">臨床評価</string>
+    <string name="tab_functional">機能評価</string>
+
+    <string name="label_headache">頭痛</string>
+    <string name="rb_headache_0">0—全くない</string>
+    <string name="rb_headache_1">1—軽度の頭痛</string>
+    <string name="rb_headache_2">2—中等度の頭痛</string>
+    <string name="rb_headache_3">3—重度の頭痛、動けない</string>
+
+    <string name="label_gi_symptoms">胃腸症状</string>
+    <string name="rb_gi_0">0—食欲がある</string>
+    <string name="rb_gi_1">1—食欲不振または吐き気</string>
+    <string name="rb_gi_2">2—中等度の吐き気または嘔吐</string>
+    <string name="rb_gi_3">3—重度の吐き気と嘔吐、動けない</string>
+
+    <string name="label_fatigue">疲労感および/または倦怠感</string>
+    <string name="rb_fatigue_0">0—疲労感や倦怠感はない</string>
+    <string name="rb_fatigue_1">1—軽度の疲労感/倦怠感</string>
+    <string name="rb_fatigue_2">2—中等度の疲労感/倦怠感</string>
+    <string name="rb_fatigue_3">3—重度の疲労感/倦怠感、動けない</string>
+
+    <string name="label_dizziness">めまい/立ちくらみ</string>
+    <string name="rb_dizziness_0">0—めまい/立ちくらみはない</string>
+    <string name="rb_dizziness_1">1—軽度のめまい/立ちくらみ</string>
+    <string name="rb_dizziness_2">2—中等度のめまい/立ちくらみ</string>
+    <string name="rb_dizziness_3">3—重度のめまい/立ちくらみ、動けない</string>
+
+    <string name="label_mental_status">精神状態の変化</string>
+    <string name="rb_mental_0">0—精神状態に変化はない</string>
+    <string name="rb_mental_1">1—無気力/倦怠感</string>
+    <string name="rb_mental_2">2—見当識障害/混乱</string>
+    <string name="rb_mental_3">3—昏迷/半昏睡</string>
+    <string name="rb_mental_4">4—昏睡</string>
+
+    <string name="label_ataxia">運動失調（直線歩行）</string>
+    <string name="rb_ataxia_0">0—運動失調はない</string>
+    <string name="rb_ataxia_1">1—バランスを保つための動作が必要</string>
+    <string name="rb_ataxia_2">2—線から足が外れる</string>
+    <string name="rb_ataxia_3">3—転倒する</string>
+    <string name="rb_ataxia_4">4—立っていられない</string>
+
+    <string name="label_peripheral_edema">末梢浮腫</string>
+    <string name="rb_edema_0">0—末梢浮腫はない</string>
+    <string name="rb_edema_1">1—1箇所に末梢浮腫がある</string>
+    <string name="rb_edema_2">2—2箇所以上に末梢浮腫がある</string>
+
+    <string name="label_activity_impact">全体として、症状があった場合、それらは活動にどのように影響しましたか？</string>
+    <string name="rb_no_reduction">0—活動の低下はない</string>
+    <string name="rb_mild_reduction">1—軽度の活動低下</string>
+    <string name="rb_moderate_reduction">2—中等度の活動低下</string>
+    <string name="rb_severe_reduction">3—重度の活動低下（例：寝たきり）</string>
+
+    <string name="self_report_score_format">自己報告スコア = %1$d / %2$d</string>
+    <string name="clinical_score_format">臨床スコア = %1$d / %2$d</string>
+    <string name="functional_score_format">機能スコア = %1$d / %2$d</string>
+
+    <string name="btn_reset_forms">フォームをリセット</string>
+    <string name="dialog_reset_confirmation">フォームをリセットしますか？</string>
+    <string name="btn_reset">リセット</string>
+    <string name="btn_cancel">キャンセル</string>
+
+    <string name="ams_none">AMSなし</string>
+    <string name="ams_mild">軽度のAMS</string>
+    <string name="ams_moderate">中等度のAMS</string>
+    <string name="ams_severe">重度のAMS</string>
+</resources>

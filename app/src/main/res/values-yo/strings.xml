@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">ÌRÒYÌN ARA ENI</string>
+    <string name="tab_clinical">NÍPA ÌTŐJÚ</string>
+    <string name="tab_functional">IṢẸ́ ARA</string>
+
+    <string name="label_headache">Fífọ́ orí</string>
+    <string name="rb_headache_0">0—Kò sí rárá</string>
+    <string name="rb_headache_1">1—Orí fífọ́ díẹ̀</string>
+    <string name="rb_headache_2">2—Orí fífọ́ tó mọ níwọ̀n</string>
+    <string name="rb_headache_3">3—Orí fífọ́ tó le gan-an, tí kò jẹ́ kí èèyàn lè ṣe nǹkan</string>
+
+    <string name="label_gi_symptoms">Àwọn àmì àrùn inú</string>
+    <string name="rb_gi_0">0—Ìfẹ́ sí oúnjẹ dára</string>
+    <string name="rb_gi_1">1—Ìfẹ́ sí oúnjẹ kò pọ̀ tàbí ríru gùdù gùdù inú</string>
+    <string name="rb_gi_2">2—Ríru gùdù gùdù inú tàbí bìbì tó mọ níwọ̀n</string>
+    <string name="rb_gi_3">3—Ríru gùdù gùdù inú àti bìbì tó le gan-an, tí kò jẹ́ kí èèyàn lè ṣe nǹkan</string>
+
+    <string name="label_fatigue">Àárẹ̀ àti/tàbí àìlera</string>
+    <string name="rb_fatigue_0">0—Kò sí àárẹ̀ tàbí àìlera</string>
+    <string name="rb_fatigue_1">1—Àárẹ̀/àìlera díẹ̀</string>
+    <string name="rb_fatigue_2">2—Àárẹ̀/àìlera tó mọ níwọ̀n</string>
+    <string name="rb_fatigue_3">3—Àárẹ̀/àìlera tó le gan-an, tí kò jẹ́ kí èèyàn lè ṣe nǹkan</string>
+
+    <string name="label_dizziness">Òyì/orí fífúyẹ́</string>
+    <string name="rb_dizziness_0">0—Kò sí òyì/orí fífúyẹ́</string>
+    <string name="rb_dizziness_1">1—Òyì/orí fífúyẹ́ díẹ̀</string>
+    <string name="rb_dizziness_2">2—Òyì/orí fífúyẹ́ tó mọ níwọ̀n</string>
+    <string name="rb_dizziness_3">3—Òyì/orí fífúyẹ́ tó le gan-an, tí kò jẹ́ kí èèyàn lè ṣe nǹkan</string>
+
+    <string name="label_mental_status">Ìyípadà nínú bí ọpọlọ ṣe ń ṣiṣẹ́</string>
+    <string name="rb_mental_0">0—Kò sí ìyípadà nínú bí ọpọlọ ṣe ń ṣiṣẹ́</string>
+    <string name="rb_mental_1">1—Òjòjò/àárẹ̀ ọpọlọ</string>
+    <string name="rb_mental_2">2—Dídàrú/ìdàrúdàpọ̀</string>
+    <string name="rb_mental_3">3—Ìdàrúdàpọ̀ tó le/àìmoore-ara</string>
+    <string name="rb_mental_4">4—Kóma (àìmoore-ara pátápátá)</string>
+
+    <string name="label_ataxia">Àìlè rìn dáadáa (rìn láti orí gìgísẹ̀ sí orí ọmọ-ẹsẹ̀)</string>
+    <string name="rb_ataxia_0">0—Kò sí àìlè rìn dáadáa</string>
+    <string name="rb_ataxia_1">1—Ipa láti jẹ́ kí ara dúró dáadáa</string>
+    <string name="rb_ataxia_2">2—Ìṣìn-rìn kúrò lójú ọ̀nà</string>
+    <string name="rb_ataxia_3">3—Ṣubú lulẹ̀</string>
+    <string name="rb_ataxia_4">4—Kò lè dúró rárá</string>
+
+    <string name="label_peripheral_edema">Wíwú ara (peripheral edema)</string>
+    <string name="rb_edema_0">0—Kò sí wíwú ara</string>
+    <string name="rb_edema_1">1—Ara wíwú lójú kan</string>
+    <string name="rb_edema_2">2—Ara wíwú lójú méjì tàbí jù bẹ́ẹ̀ lọ</string>
+
+    <string name="label_activity_impact">Láapapọ̀, tí o bá ní àwọn àmì àrùn kankan, báwo ni wọ́n ṣe nípa lórí iṣẹ́ rẹ?</string>
+    <string name="rb_no_reduction">0—Kò sí ìdínkù nínú iṣẹ́ ṣíṣe</string>
+    <string name="rb_mild_reduction">1—Ìdínkù díẹ̀ nínú iṣẹ́ ṣíṣe</string>
+    <string name="rb_moderate_reduction">2—Ìdínkù tó mọ níwọ̀n nínú iṣẹ́ ṣíṣe</string>
+    <string name="rb_severe_reduction">3—Ìdínkù tó pọ̀ nínú iṣẹ́ ṣíṣe (fún àpẹẹrẹ, dídùbúlẹ̀ sórí ibùsùn)</string>
+
+    <string name="self_report_score_format">Iye ìròyìn ara eni = %1$d nínú %2$d</string>
+    <string name="clinical_score_format">Iye ti ìtőjú = %1$d nínú %2$d</string>
+    <string name="functional_score_format">Iye ti iṣẹ́ ara = %1$d nínú %2$d</string>
+
+    <string name="btn_reset_forms">Tún àwọn fóòmù kọ</string>
+    <string name="dialog_reset_confirmation">Ṣé kí a tún àwọn fóòmù kọ?</string>
+    <string name="btn_reset">Tún un kọ</string>
+    <string name="btn_cancel">Pa á tì</string>
+
+    <string name="ams_none">Kò sí AMS</string>
+    <string name="ams_mild">AMS díẹ̀</string>
+    <string name="ams_moderate">AMS tó mọ níwọ̀n</string>
+    <string name="ams_severe">AMS tó le gan-an</string>
+</resources>

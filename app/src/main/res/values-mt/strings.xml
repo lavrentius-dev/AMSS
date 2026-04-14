@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">AWTO-RAPPORT</string>
+    <string name="tab_clinical">KLINIKU</string>
+    <string name="tab_functional">FUNZJONALI</string>
+    <string name="label_headache">Uġigħ ta\' ras</string>
+    <string name="rb_headache_0">0—Xejn affattu</string>
+    <string name="rb_headache_1">1—Uġigħ ta\' ras ħafif</string>
+    <string name="rb_headache_2">2—Uġigħ ta\' ras moderat</string>
+    <string name="rb_headache_3">3—Uġigħ ta\' ras qawwi, inkapaċitanti</string>
+    <string name="label_gi_symptoms">Sintomi gastrointestinali</string>
+    <string name="rb_gi_0">0—Appetit tajjeb</string>
+    <string name="rb_gi_1">1—Appetit ħażin jew dardir</string>
+    <string name="rb_gi_2">2—Dardir moderat jew rimettar</string>
+    <string name="rb_gi_3">3—Dardir u rimettar qawwi, inkapaċitanti</string>
+    <string name="label_fatigue">Għeja u/jew dgħufija</string>
+    <string name="rb_fatigue_0">0—Mhux għajjien jew dgħajjef</string>
+    <string name="rb_fatigue_1">1—Għeja/dgħufija ħafifa</string>
+    <string name="rb_fatigue_2">2—Għeja/dgħufija moderata</string>
+    <string name="rb_fatigue_3">3—Għeja/dgħufija qawwija, inkapaċitanti</string>
+    <string name="label_dizziness">Sturdament/sensazzjoni ta\' ħeffa fir-ras</string>
+    <string name="rb_dizziness_0">0—L-ebda sturdament/sensazzjoni ta\' ħeffa fir-ras</string>
+    <string name="rb_dizziness_1">1—Sturdament/sensazzjoni ta\' ħeffa fir-ras ħafifa</string>
+    <string name="rb_dizziness_2">2—Sturdament/sensazzjoni ta\' ħeffa fir-ras moderata</string>
+    <string name="rb_dizziness_3">3—Sturdament/sensazzjoni ta\' ħeffa fir-ras qawwija, inkapaċitanti</string>
+    <string name="label_mental_status">Bidla fl-istat mentali</string>
+    <string name="rb_mental_0">0—L-ebda bidla fl-istat mentali</string>
+    <string name="rb_mental_1">1—Letarġija/għeja kbira</string>
+    <string name="rb_mental_2">2—Diżorjentat/konfuż</string>
+    <string name="rb_mental_3">3—Stupur/semi-koxjenza</string>
+    <string name="rb_mental_4">4—Koma</string>
+    <string name="label_ataxia">Atassja (mixi mill-għarqub sas-swaba\')</string>
+    <string name="rb_ataxia_0">0—L-ebda atassja</string>
+    <string name="rb_ataxia_1">1—Manuvri biex jinżamm il-bilanċ</string>
+    <string name="rb_ataxia_2">2—Passi barra l-linja</string>
+    <string name="rb_ataxia_3">3—Waqgħat</string>
+    <string name="rb_ataxia_4">4—Ma jistax joqgħod bilwieqfa</string>
+    <string name="label_peripheral_edema">Edema periferali</string>
+    <string name="rb_edema_0">0—L-ebda edema periferali</string>
+    <string name="rb_edema_1">1—Edema periferali f\'post wieħed</string>
+    <string name="rb_edema_2">2—Edema periferali f\'żewġ postijiet jew aktar</string>
+    <string name="label_activity_impact">B\'mod ġenerali, jekk kellek xi sintomi, kif affettwaw l-attività tiegħek?</string>
+    <string name="rb_no_reduction">0—L-ebda tnaqqis fl-attività</string>
+    <string name="rb_mild_reduction">1—Tnaqqis ħafif fl-attività</string>
+    <string name="rb_moderate_reduction">2—Tnaqqis moderat fl-attività</string>
+    <string name="rb_severe_reduction">3—Tnaqqis kbir fl-attività (eż. mistrieħ fis-sodda)</string>
+    <string name="self_report_score_format">Punteġġ tal-awto-rapport = %1$d minn %2$d</string>
+    <string name="clinical_score_format">Punteġġ kliniku = %1$d minn %2$d</string>
+    <string name="functional_score_format">Punteġġ funzjonali = %1$d minn %2$d</string>
+    <string name="btn_reset_forms">Irrisettja l-formoli</string>
+    <string name="dialog_reset_confirmation">Irrisettja l-formoli?</string>
+    <string name="btn_reset">Irrisettja</string>
+    <string name="btn_cancel">Ikkanċella</string>
+    <string name="ams_none">L-ebda AMS</string>
+    <string name="ams_mild">AMS Ħafif</string>
+    <string name="ams_moderate">AMS Moderat</string>
+    <string name="ams_severe">AMS Qawwi</string>
+</resources>

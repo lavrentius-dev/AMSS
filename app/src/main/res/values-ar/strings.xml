@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">تقرير ذاتي</string>
+    <string name="tab_clinical">سريري</string>
+    <string name="tab_functional">وظيفي</string>
+
+    <string name="label_headache">صداع</string>
+    <string name="rb_headache_0">0—لا يوجد على الإطلاق</string>
+    <string name="rb_headache_1">1—صداع خفيف</string>
+    <string name="rb_headache_2">2—صداع متوسط</string>
+    <string name="rb_headache_3">3—صداع شديد، يعيق الحركة</string>
+
+    <string name="label_gi_symptoms">أعراض الجهاز الهضمي</string>
+    <string name="rb_gi_0">0—شهية جيدة</string>
+    <string name="rb_gi_1">1—ضعف الشهية أو غثيان</string>
+    <string name="rb_gi_2">2—غثيان متوسط أو قيء</string>
+    <string name="rb_gi_3">3—غثيان وقيء شديد، يعيق الحركة</string>
+
+    <string name="label_fatigue">تعب و/أو ضعف</string>
+    <string name="rb_fatigue_0">0—غير متعب أو ضعيف</string>
+    <string name="rb_fatigue_1">1—تعب/ضعف خفيف</string>
+    <string name="rb_fatigue_2">2—تعب/ضعف متوسط</string>
+    <string name="rb_fatigue_3">3—تعب/ضعف شديد، يعيق الحركة</string>
+
+    <string name="label_dizziness">دوار/خفة رأس</string>
+    <string name="rb_dizziness_0">0—لا يوجد دوار/خفة رأس</string>
+    <string name="rb_dizziness_1">1—دوار/خفة رأس خفيفة</string>
+    <string name="rb_dizziness_2">2—دوار/خفة رأس متوسطة</string>
+    <string name="rb_dizziness_3">3—دوار/خفة رأس شديدة، تعيق الحركة</string>
+
+    <string name="label_mental_status">تغير في الحالة الذهنية</string>
+    <string name="rb_mental_0">0—لا يوجد تغير في الحالة الذهنية</string>
+    <string name="rb_mental_1">1—خمول/إعياء</string>
+    <string name="rb_mental_2">2—ارتباك/تخليط ذهني</string>
+    <string name="rb_mental_3">3—ذهول/شبه غيبوبة</string>
+    <string name="rb_mental_4">4—غيبوبة</string>
+
+    <string name="label_ataxia">رنح (المشي من الكعب إلى أصابع القدم)</string>
+    <string name="rb_ataxia_0">0—لا يوجد رنح</string>
+    <string name="rb_ataxia_1">1—مناورات للحفاظ على التوازن</string>
+    <string name="rb_ataxia_2">2—الخروج عن الخط</string>
+    <string name="rb_ataxia_3">3—السقوط</string>
+    <string name="rb_ataxia_4">4—لا يستطيع الوقوف</string>
+
+    <string name="label_peripheral_edema">وذمة محيطية</string>
+    <string name="rb_edema_0">0—لا توجد وذمة محيطية</string>
+    <string name="rb_edema_1">1—وذمة محيطية في مكان واحد</string>
+    <string name="rb_edema_2">2—وذمة محيطية في مكانين أو أكثر</string>
+
+    <string name="label_activity_impact">بشكل عام، إذا كانت لديك أي أعراض، كيف أثرت على نشاطك؟</string>
+    <string name="rb_no_reduction">0—لا يوجد انخفاض في النشاط</string>
+    <string name="rb_mild_reduction">1—انخفاض طفيف في النشاط</string>
+    <string name="rb_moderate_reduction">2—انخفاض متوسط في النشاط</string>
+    <string name="rb_severe_reduction">3—انخفاض شديد في النشاط (مثل الراحة في الفراش)</string>
+
+    <string name="self_report_score_format">درجة التقرير الذاتي = %1$d من %2$d</string>
+    <string name="clinical_score_format">الدرجة السريرية = %1$d من %2$d</string>
+    <string name="functional_score_format">الدرجة الوظيفية = %1$d من %2$d</string>
+
+    <string name="btn_reset_forms">إعادة تعيين النماذج</string>
+    <string name="dialog_reset_confirmation">إعادة تعيين النماذج؟</string>
+    <string name="btn_reset">إعادة تعيين</string>
+    <string name="btn_cancel">إلغاء</string>
+
+    <string name="ams_none">لا يوجد داء المرتفعات الحاد</string>
+    <string name="ams_mild">داء المرتفعات الحاد خفيف</string>
+    <string name="ams_moderate">داء المرتفعات الحاد متوسط</string>
+    <string name="ams_severe">داء المرتفعات الحاد شديد</string>
+</resources>

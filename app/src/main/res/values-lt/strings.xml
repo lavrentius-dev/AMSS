@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">SAVARANKIŠKA ATASKAITA</string>
+    <string name="tab_clinical">KLINIKINIS</string>
+    <string name="tab_functional">FUNKCINIS</string>
+    <string name="label_headache">Galvos skausmas</string>
+    <string name="rb_headache_0">0—Visiškai nėra</string>
+    <string name="rb_headache_1">1—Lengvas galvos skausmas</string>
+    <string name="rb_headache_2">2—Vidutinis galvos skausmas</string>
+    <string name="rb_headache_3">3—Stiprus galvos skausmas, darbingumo praradimas</string>
+    <string name="label_gi_symptoms">Virškinimo trakto simptomai</string>
+    <string name="rb_gi_0">0—Geras apetitas</string>
+    <string name="rb_gi_1">1—Blogas apetitas arba pykinimas</string>
+    <string name="rb_gi_2">2—Vidutinis pykinimas arba vėmimas</string>
+    <string name="rb_gi_3">3—Stiprus pykinimas ir vėmimas, darbingumo praradimas</string>
+    <string name="label_fatigue">Nuovargis ir (arba) silpnumas</string>
+    <string name="rb_fatigue_0">0—Nėra nuovargio ar silpnumo</string>
+    <string name="rb_fatigue_1">1—Lengvas nuovargis / silpnumas</string>
+    <string name="rb_fatigue_2">2—Vidutinis nuovargis / silpnumas</string>
+    <string name="rb_fatigue_3">3—Stiprus nuovargis / silpnumas, darbingumo praradimas</string>
+    <string name="label_dizziness">Galvos svaigimas / silpnumas</string>
+    <string name="rb_dizziness_0">0—Nėra galvos svaigimo / silpnumo</string>
+    <string name="rb_dizziness_1">1—Lengvas galvos svaigimas / silpnumas</string>
+    <string name="rb_dizziness_2">2—Vidutinis galvos svaigimas / silpnumas</string>
+    <string name="rb_dizziness_3">3—Stiprus galvos svaigimas / silpnumas, darbingumo praradimas</string>
+    <string name="label_mental_status">Psichinės būklės pokytis</string>
+    <string name="rb_mental_0">0—Psichinės būklės pokyčių nėra</string>
+    <string name="rb_mental_1">1—Letargija / vangumas</string>
+    <string name="rb_mental_2">2—Dezorientuotas / sumišęs</string>
+    <string name="rb_mental_3">3—Stuporas / pusiau sąmoningas</string>
+    <string name="rb_mental_4">4—Koma</string>
+    <string name="label_ataxia">Ataksija (ėjimas kulnas-pirštai)</string>
+    <string name="rb_ataxia_0">0—Ataksijos nėra</string>
+    <string name="rb_ataxia_1">1—Manevrai pusiausvyrai išlaikyti</string>
+    <string name="rb_ataxia_2">2—Žengimas už linijos</string>
+    <string name="rb_ataxia_3">3—Griuvimas</string>
+    <string name="rb_ataxia_4">4—Negali stovėti</string>
+    <string name="label_peripheral_edema">Periferinė edema</string>
+    <string name="rb_edema_0">0—Periferinės edemos nėra</string>
+    <string name="rb_edema_1">1—Periferinė edema vienoje vietoje</string>
+    <string name="rb_edema_2">2—Periferinė edema dviejose ar daugiau vietų</string>
+    <string name="label_activity_impact">Apskritai, jei turėjote kokių nors simptomų, kaip jie paveikė jūsų veiklą?</string>
+    <string name="rb_no_reduction">0—Veikla nesumažėjo</string>
+    <string name="rb_mild_reduction">1—Nedidelis veiklos sumažėjimas</string>
+    <string name="rb_moderate_reduction">2—Vidutinis veiklos sumažėjimas</string>
+    <string name="rb_severe_reduction">3—Stiprus veiklos sumažėjimas (pvz., lovos režimas)</string>
+    <string name="self_report_score_format">Savarankiškos ataskaitos balas = %1$d iš %2$d</string>
+    <string name="clinical_score_format">Klinikinis balas = %1$d iš %2$d</string>
+    <string name="functional_score_format">Funkcinis balas = %1$d iš %2$d</string>
+    <string name="btn_reset_forms">Išvalyti formas</string>
+    <string name="dialog_reset_confirmation">Išvalyti formas?</string>
+    <string name="btn_reset">Išvalyti</string>
+    <string name="btn_cancel">Atšaukti</string>
+    <string name="ams_none">Nėra AMS</string>
+    <string name="ams_mild">Lengva AMS</string>
+    <string name="ams_moderate">Vidutinė AMS</string>
+    <string name="ams_severe">Sunki AMS</string>
+</resources>

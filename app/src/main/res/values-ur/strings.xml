@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">ذاتی رپورٹ</string>
+    <string name="tab_clinical">طبی</string>
+    <string name="tab_functional">فعالیت</string>
+
+    <string name="label_headache">سر درد</string>
+    <string name="rb_headache_0">0—بالکل نہیں</string>
+    <string name="rb_headache_1">1—ہلکا سر درد</string>
+    <string name="rb_headache_2">2—درمیانہ سر درد</string>
+    <string name="rb_headache_3">3—شدید سر درد، معذور کر دینے والا</string>
+
+    <string name="label_gi_symptoms">معدے کی علامات</string>
+    <string name="rb_gi_0">0—اچھی بھوک</string>
+    <string name="rb_gi_1">1—کم بھوک یا متلی</string>
+    <string name="rb_gi_2">2—درمیانی متلی یا الٹی</string>
+    <string name="rb_gi_3">3—شدید متلی اور الٹی، معذور کر دینے والا</string>
+
+    <string name="label_fatigue">تھکاوٹ اور/یا کمزوری</string>
+    <string name="rb_fatigue_0">0—تھکا ہوا یا کمزور نہیں</string>
+    <string name="rb_fatigue_1">1—ہلکی تھکاوٹ/کمزوری</string>
+    <string name="rb_fatigue_2">2—درمیانی تھکاوٹ/کمزوری</string>
+    <string name="rb_fatigue_3">3—شدید تھکاوٹ/کمزوری، معذور کر دینے والا</string>
+
+    <string name="label_dizziness">چکر آنا/سر ہلکا ہونا</string>
+    <string name="rb_dizziness_0">0—کوئی چکر نہیں</string>
+    <string name="rb_dizziness_1">1—ہلکا چکر آنا</string>
+    <string name="rb_dizziness_2">2—درمیانہ چکر آنا</string>
+    <string name="rb_dizziness_3">3—شدید چکر آنا، معذور کر دینے والا</string>
+
+    <string name="label_mental_status">ذہنی حالت میں تبدیلی</string>
+    <string name="rb_mental_0">0—ذہنی حالت میں کوئی تبدیلی نہیں</string>
+    <string name="rb_mental_1">1—سستی/تھکن</string>
+    <string name="rb_mental_2">2—بے چینی/الجھن</string>
+    <string name="rb_mental_3">3—مدہوشی/نیم بے ہوشی</string>
+    <string name="rb_mental_4">4—بے ہوشی (کوما)</string>
+
+    <string name="label_ataxia">رعشہ (ایڑی سے پنجے تک چلنا)</string>
+    <string name="rb_ataxia_0">0—کوئی رعشہ نہیں</string>
+    <string name="rb_ataxia_1">1—توازن برقرار رکھنے کے لیے کوشش</string>
+    <string name="rb_ataxia_2">2—لائن سے باہر قدم</string>
+    <string name="rb_ataxia_3">3—گر جانا</string>
+    <string name="rb_ataxia_4">4—کھڑا نہیں ہو سکتا</string>
+
+    <string name="label_peripheral_edema">ورم (سوجن)</string>
+    <string name="rb_edema_0">0—کوئی ورم نہیں</string>
+    <string name="rb_edema_1">1—ایک جگہ پر ورم</string>
+    <string name="rb_edema_2">2—دو یا زیادہ جگہوں پر ورم</string>
+
+    <string name="label_activity_impact">مجموعی طور پر، اگر آپ کو کوئی علامات تھیں، تو انہوں نے آپ کی سرگرمی کو کیسے متاثر کیا؟</string>
+    <string name="rb_no_reduction">0—سرگرمی میں کوئی کمی نہیں</string>
+    <string name="rb_mild_reduction">1—سرگرمی میں ہلکی کمی</string>
+    <string name="rb_moderate_reduction">2—سرگرمی میں درمیانی کمی</string>
+    <string name="rb_severe_reduction">3—سرگرمی میں شدید کمی (مثلاً بستر پر آرام)</string>
+
+    <string name="self_report_score_format">ذاتی رپورٹ اسکور = %1$d میں سے %2$d</string>
+    <string name="clinical_score_format">طبی اسکور = %1$d میں سے %2$d</string>
+    <string name="functional_score_format">فعالیت کا اسکور = %1$d میں سے %2$d</string>
+
+    <string name="btn_reset_forms">فارم ری سیٹ کریں</string>
+    <string name="dialog_reset_confirmation">فارم ری سیٹ کریں؟</string>
+    <string name="btn_reset">ری سیٹ</string>
+    <string name="btn_cancel">منسوخ کریں</string>
+
+    <string name="ams_none">کوئی AMS نہیں</string>
+    <string name="ams_mild">ہلکا AMS</string>
+    <string name="ams_moderate">درمیانہ AMS</string>
+    <string name="ams_severe">شدید AMS</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">SAMOPOROČILO</string>
+    <string name="tab_clinical">KLINIČNO</string>
+    <string name="tab_functional">FUNKCIONALNO</string>
+    <string name="label_headache">Glavobol</string>
+    <string name="rb_headache_0">0—Sploh ne</string>
+    <string name="rb_headache_1">1—Blag glavobol</string>
+    <string name="rb_headache_2">2—Zmeren glavobol</string>
+    <string name="rb_headache_3">3—Huda glavobol, onemogočajoč</string>
+    <string name="label_gi_symptoms">Gastrointestinalni simptomi</string>
+    <string name="rb_gi_0">0—Dober apetit</string>
+    <string name="rb_gi_1">1—Slab apetit ali slabost</string>
+    <string name="rb_gi_2">2—Zmerna slabost ali bruhanje</string>
+    <string name="rb_gi_3">3—Huda slabost in bruhanje, onemogočajoča</string>
+    <string name="label_fatigue">Utrujenost in/ali šibkost</string>
+    <string name="rb_fatigue_0">0—Niste utrujeni ali šibki</string>
+    <string name="rb_fatigue_1">1—Blaga utrujenost/šibkost</string>
+    <string name="rb_fatigue_2">2—Zmerna utrujenost/šibkost</string>
+    <string name="rb_fatigue_3">3—Huda utrujenost/šibkost, onemogočajoča</string>
+    <string name="label_dizziness">Vrtoglavica/omotica</string>
+    <string name="rb_dizziness_0">0—Brez vrtoglavice/omotice</string>
+    <string name="rb_dizziness_1">1—Blaga vrtoglavica/omotica</string>
+    <string name="rb_dizziness_2">2—Zmerna vrtoglavica/omotica</string>
+    <string name="rb_dizziness_3">3—Huda vrtoglavica/omotica, onemogočajoča</string>
+    <string name="label_mental_status">Sprememba duševnega stanja</string>
+    <string name="rb_mental_0">0—Brez spremembe duševnega stanja</string>
+    <string name="rb_mental_1">1—Letargija/utrujenost</string>
+    <string name="rb_mental_2">2—Dezorientiran/zmeden</string>
+    <string name="rb_mental_3">3—Stupor/polzavest</string>
+    <string name="rb_mental_4">4—Koma</string>
+    <string name="label_ataxia">Ataksija (hoja peta-prsti)</string>
+    <string name="rb_ataxia_0">0—Brez ataksije</string>
+    <string name="rb_ataxia_1">1—Manevri za ohranjanje ravnotežja</string>
+    <string name="rb_ataxia_2">2—Stopanje s črte</string>
+    <string name="rb_ataxia_3">3—Padanje</string>
+    <string name="rb_ataxia_4">4—Ne more stati</string>
+    <string name="label_peripheral_edema">Periferni edem</string>
+    <string name="rb_edema_0">0—Brez perifernega edema</string>
+    <string name="rb_edema_1">1—Periferni edem na enem mestu</string>
+    <string name="rb_edema_2">2—Periferni edem na dveh ali več mestih</string>
+    <string name="label_activity_impact">Na splošno, če ste imeli kakršne koli simptome, kako so vplivali na vašo aktivnost?</string>
+    <string name="rb_no_reduction">0—Brez zmanjšanja aktivnosti</string>
+    <string name="rb_mild_reduction">1—Blago zmanjšanje aktivnosti</string>
+    <string name="rb_moderate_reduction">2—Zmerno zmanjšanje aktivnosti</string>
+    <string name="rb_severe_reduction">3—Močno zmanjšanje aktivnosti (npr. ležanje v postelji)</string>
+    <string name="self_report_score_format">Rezultat samoporočila = %1$d od %2$d</string>
+    <string name="clinical_score_format">Klinični rezultat = %1$d od %2$d</string>
+    <string name="functional_score_format">Funkcionalni rezultat = %1$d od %2$d</string>
+    <string name="btn_reset_forms">Ponastavi obrazce</string>
+    <string name="dialog_reset_confirmation">Ponastavi obrazce?</string>
+    <string name="btn_reset">Ponastavi</string>
+    <string name="btn_cancel">Prekliči</string>
+    <string name="ams_none">Brez AMS</string>
+    <string name="ams_mild">Blag AMS</string>
+    <string name="ams_moderate">Zmeren AMS</string>
+    <string name="ams_severe">Hud AMS</string>
+</resources>

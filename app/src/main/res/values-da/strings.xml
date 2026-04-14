@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">SELV-RAPPORT</string>
+    <string name="tab_clinical">KLINISK</string>
+    <string name="tab_functional">FUNKTIONEL</string>
+    <string name="label_headache">Hovedpine</string>
+    <string name="rb_headache_0">0—Slet ingen</string>
+    <string name="rb_headache_1">1—Mild hovedpine</string>
+    <string name="rb_headache_2">2—Moderat hovedpine</string>
+    <string name="rb_headache_3">3—Svær hovedpine, invaliderende</string>
+    <string name="label_gi_symptoms">Gastrointestinale symptomer</string>
+    <string name="rb_gi_0">0—God appetit</string>
+    <string name="rb_gi_1">1—Dårlig appetit eller kvalme</string>
+    <string name="rb_gi_2">2—Moderat kvalme eller opkastning</string>
+    <string name="rb_gi_3">3—Svær kvalme og opkastning, invaliderende</string>
+    <string name="label_fatigue">Træthed og/eller svaghed</string>
+    <string name="rb_fatigue_0">0—Ikke træt eller svag</string>
+    <string name="rb_fatigue_1">1—Mild træthed/svaghed</string>
+    <string name="rb_fatigue_2">2—Moderat træthed/svaghed</string>
+    <string name="rb_fatigue_3">3—Svær træthed/svaghed, invaliderende</string>
+    <string name="label_dizziness">Svimmelhed/ørhed</string>
+    <string name="rb_dizziness_0">0—Ingen svimmelhed/ørhed</string>
+    <string name="rb_dizziness_1">1—Mild svimmelhed/ørhed</string>
+    <string name="rb_dizziness_2">2—Moderat svimmelhed/ørhed</string>
+    <string name="rb_dizziness_3">3—Svær svimmelhed/ørhed, invaliderende</string>
+    <string name="label_mental_status">Ændring i mental status</string>
+    <string name="rb_mental_0">0—Ingen ændring i mental status</string>
+    <string name="rb_mental_1">1—Sløvhed/mathed</string>
+    <string name="rb_mental_2">2—Desorienteret/forvirret</string>
+    <string name="rb_mental_3">3—Stupor/halvbevidstløshed</string>
+    <string name="rb_mental_4">4—Koma</string>
+    <string name="label_ataxia">Ataksi (hæl-til-tå gang)</string>
+    <string name="rb_ataxia_0">0—Ingen ataksi</string>
+    <string name="rb_ataxia_1">1—Manøvrer for at bevare balancen</string>
+    <string name="rb_ataxia_2">2—Træder ved siden af linjen</string>
+    <string name="rb_ataxia_3">3—Falder</string>
+    <string name="rb_ataxia_4">4—Kan ikke stå</string>
+    <string name="label_peripheral_edema">Perifert ødem</string>
+    <string name="rb_edema_0">0—Intet perifert ødem</string>
+    <string name="rb_edema_1">1—Perifert ødem på ét sted</string>
+    <string name="rb_edema_2">2—Perifert ødem på to eller flere steder</string>
+    <string name="label_activity_impact">Samlet set, hvis du havde nogen symptomer, hvordan påvirkede de din aktivitet?</string>
+    <string name="rb_no_reduction">0—Ingen reduktion i aktivitet</string>
+    <string name="rb_mild_reduction">1—Mild reduktion i aktivitet</string>
+    <string name="rb_moderate_reduction">2—Moderat reduktion i aktivitet</string>
+    <string name="rb_severe_reduction">3—Svær reduktion i aktivitet (f.eks. sengeleje)</string>
+    <string name="self_report_score_format">Selv-rapport score = %1$d af %2$d</string>
+    <string name="clinical_score_format">Klinisk score = %1$d af %2$d</string>
+    <string name="functional_score_format">Funktionel score = %1$d af %2$d</string>
+    <string name="btn_reset_forms">Nulstil formularer</string>
+    <string name="dialog_reset_confirmation">Nulstil formularer?</string>
+    <string name="btn_reset">Nulstil</string>
+    <string name="btn_cancel">Annuller</string>
+    <string name="ams_none">Ingen AMS</string>
+    <string name="ams_mild">Mild AMS</string>
+    <string name="ams_moderate">Moderat AMS</string>
+    <string name="ams_severe">Svær AMS</string>
+</resources>

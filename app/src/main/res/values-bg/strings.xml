@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSS</string>
+    <string name="tab_self_report">САМООЦЕНКА</string>
+    <string name="tab_clinical">КЛИНИЧЕН</string>
+    <string name="tab_functional">ФУНКЦИОНАЛЕН</string>
+    <string name="label_headache">Главоболие</string>
+    <string name="rb_headache_0">0—Никакво</string>
+    <string name="rb_headache_1">1—Леко главоболие</string>
+    <string name="rb_headache_2">2—Умерено главоболие</string>
+    <string name="rb_headache_3">3—Силно главоболие, обездвижващо</string>
+    <string name="label_gi_symptoms">Стомашно-чревни симптоми</string>
+    <string name="rb_gi_0">0—Добър апетит</string>
+    <string name="rb_gi_1">1—Слаб апетит или гадене</string>
+    <string name="rb_gi_2">2—Умерено гадене или повръщане</string>
+    <string name="rb_gi_3">3—Силно гадене и повръщане, обездвижващо</string>
+    <string name="label_fatigue">Умора и/или слабост</string>
+    <string name="rb_fatigue_0">0—Не сте уморени или слаби</string>
+    <string name="rb_fatigue_1">1—Лека умора/слабост</string>
+    <string name="rb_fatigue_2">2—Умерена умора/слабост</string>
+    <string name="rb_fatigue_3">3—Силна умора/слабост, обездвижваща</string>
+    <string name="label_dizziness">Замаяност/световъртеж</string>
+    <string name="rb_dizziness_0">0—Няма замаяност/световъртеж</string>
+    <string name="rb_dizziness_1">1—Лека замаяност/световъртеж</string>
+    <string name="rb_dizziness_2">2—Умерена замаяност/световъртеж</string>
+    <string name="rb_dizziness_3">3—Силна замаяност/световъртеж, обездвижваща</string>
+    <string name="label_mental_status">Промяна в психичното състояние</string>
+    <string name="rb_mental_0">0—Няма промяна в психичното състояние</string>
+    <string name="rb_mental_1">1—Летаргия/отпадналост</string>
+    <string name="rb_mental_2">2—Дезориентиран/объркан</string>
+    <string name="rb_mental_3">3—Ступор/полусъзнание</string>
+    <string name="rb_mental_4">4—Кома</string>
+    <string name="label_ataxia">Атаксия (ходене пета-пръсти)</string>
+    <string name="rb_ataxia_0">0—Няма атаксия</string>
+    <string name="rb_ataxia_1">1—Маневри за поддържане на баланс</string>
+    <string name="rb_ataxia_2">2—Стъпване извън линията</string>
+    <string name="rb_ataxia_3">3—Падане</string>
+    <string name="rb_ataxia_4">4—Не може да стои прав</string>
+    <string name="label_peripheral_edema">Периферен оток</string>
+    <string name="rb_edema_0">0—Няма периферен оток</string>
+    <string name="rb_edema_1">1—Периферен оток на едно място</string>
+    <string name="rb_edema_2">2—Периферен оток на две или повече места</string>
+    <string name="label_activity_impact">Като цяло, ако сте имали симптоми, как повлияха те на активността ви?</string>
+    <string name="rb_no_reduction">0—Няма намаляване на активността</string>
+    <string name="rb_mild_reduction">1—Леко намаляване на активността</string>
+    <string name="rb_moderate_reduction">2—Умерено намаляване на активността</string>
+    <string name="rb_severe_reduction">3—Силно намаляване на активността (напр. леглови режим)</string>
+    <string name="self_report_score_format">Резултат от самооценка = %1$d от %2$d</string>
+    <string name="clinical_score_format">Клиничен резултат = %1$d от %2$d</string>
+    <string name="functional_score_format">Функционален резултат = %1$d от %2$d</string>
+    <string name="btn_reset_forms">Нулиране на формите</string>
+    <string name="dialog_reset_confirmation">Нулиране на формите?</string>
+    <string name="btn_reset">Нулиране</string>
+    <string name="btn_cancel">Отказ</string>
+    <string name="ams_none">Няма ОВБ</string>
+    <string name="ams_mild">Лека ОВБ</string>
+    <string name="ams_moderate">Умерена ОВБ</string>
+    <string name="ams_severe">Тежка ОВБ</string>
+</resources>
